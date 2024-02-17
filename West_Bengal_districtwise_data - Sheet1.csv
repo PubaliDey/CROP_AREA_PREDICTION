@@ -1,0 +1,1892 @@
+District,Soil_Type,N ,P ,K ,pH,Rainfall ,Humidity,Temperature 
+Hooghly,Alluvial,150,90,120,7.2,1725,75,28
+Hooghly,Alluvial,189,78,195,6.7,1786,73,21
+Hooghly,Alluvial,110,56,115,7.4,1603,77,27
+Hooghly,Alluvial,177,62,187,6.6,1832,76,24
+Hooghly,Alluvial,136,80,159,6.9,1920,71,20
+Hooghly,Alluvial,123,95,135,6.5,1545,72,23
+Hooghly,Alluvial,155,52,169,7.1,1689,78,22
+Hooghly,Alluvial,166,69,177,7.3,1750,79,25
+Hooghly,Alluvial,199,71,119,7.2,1754,74,30
+Hooghly,Alluvial,101,54,118,6.6,1825,70,29
+Hooghly,Alluvial,157,83,168,6.8,1665,80,26
+Hooghly,Alluvial,114,93,147,7,1588,79,22
+Hooghly,Alluvial,161,61,116,7.1,1977,73,25
+Hooghly,Alluvial,150,63,193,6.7,1801,71,20
+Hooghly,Alluvial,144,73,115,7.4,1650,78,30
+Hooghly,Alluvial,135,82,147,6.9,1842,75,28
+Hooghly,Alluvial,155,99,127,7.3,1609,77,22
+Hooghly,Alluvial,178,70,167,7,1952,72,24
+Hooghly,Alluvial,179,55,125,6.5,1703,74,23
+Hooghly,Alluvial,177,85,110,7.5,1910,79,26
+Hooghly,Alluvial,133,58,176,6.6,1676,78,21
+Hooghly,Alluvial,189,91,161,7.2,1848,73,29
+Hooghly,Alluvial,123,59,190,7,1542,71,22
+Hooghly,Alluvial,197,74,130,6.8,1635,70,27
+Hooghly,Alluvial,156,77,178,7.4,1789,77,25
+Hooghly,Alluvial,188,88,163,6.7,1613,76,23
+Hooghly,Alluvial,146,98,155,7.3,1897,75,20
+Hooghly,Alluvial,162,97,187,6.9,1756,79,28
+Hooghly,Alluvial,156,94,141,7.1,1767,73,24
+Hooghly,Alluvial,197,75,161,6.5,1625,71,21
+Hooghly,Alluvial,177,81,135,7.2,1840,79,30
+Hooghly,Alluvial,188,53,158,6.6,1877,72,26
+Hooghly,Alluvial,154,89,128,7,1912,76,22
+Hooghly,Alluvial,139,67,177,7.4,1764,70,23
+Hooghly,Alluvial,135,76,178,6.7,1663,75,28
+Hooghly,Alluvial,173,72,184,7.5,1661,78,21
+Hooghly,Alluvial,191,79,174,7.3,1742,73,22
+Hooghly,Alluvial,179,65,127,6.9,1583,74,29
+Hooghly,Alluvial,157,66,155,7.1,1601,71,24
+Hooghly,Alluvial,124,84,172,7,1875,76,27
+Hooghly,Alluvial,112,60,163,6.5,1860,79,20
+Hooghly,Alluvial,142,92,179,7.2,1572,78,25
+Hooghly,Alluvial,174,57,130,7.4,1913,77,22
+Hooghly,Alluvial,131,96,171,6.6,1622,71,26
+Hooghly,Alluvial,156,87,192,7.3,1973,72,30
+Hooghly,Alluvial,164,64,112,7.5,1743,75,29
+Hooghly,Alluvial,144,68,156,6.7,1578,70,24
+Hooghly,Alluvial,152,75,113,7.1,1662,79,21
+Hooghly,Alluvial,175,86,145,7.2,1908,73,23
+Hooghly,Alluvial,184,55,123,7,1629,71,28
+Hooghly,Alluvial,113,50,150,6.9,1657,74,27
+Hooghly,Alluvial,177,61,176,7.4,1745,76,20
+Hooghly,Alluvial,197,70,167,7,1555,78,25
+Hooghly,Alluvial,184,85,127,6.6,1899,72,22
+Hooghly,Alluvial,144,62,166,7.3,1825,75,29
+Hooghly,Alluvial,161,53,195,6.8,1623,77,26
+Hooghly,Alluvial,192,97,124,7.2,1756,73,21
+Hooghly,Alluvial,142,91,145,6.7,1654,70,24
+Howrah,Alluvial,143,92,118,6.7,1635,74,24
+Howrah,Alluvial,187,63,162,6.9,1768,71,28
+Howrah,Alluvial,151,91,195,6.6,1902,72,23
+Howrah,Alluvial,170,75,177,7.3,1956,78,29
+Howrah,Alluvial,116,67,156,6.8,1845,79,22
+Howrah,Alluvial,109,80,180,7.1,1709,80,26
+Howrah,Alluvial,145,51,182,6.5,1592,71,25
+Howrah,Alluvial,191,94,187,7.5,1854,77,30
+Howrah,Alluvial,163,86,114,7,1666,75,21
+Howrah,Alluvial,197,59,123,7.2,1587,73,27
+Howrah,Alluvial,121,98,156,7.4,1792,79,20
+Howrah,Alluvial,185,65,132,7.3,1739,72,22
+Howrah,Alluvial,106,51,154,6.8,1777,76,28
+Howrah,Alluvial,150,79,125,7,1801,73,24
+Howrah,Alluvial,136,97,174,7.4,1678,78,29
+Howrah,Alluvial,175,85,120,7.1,1810,75,23
+Howrah,Alluvial,199,92,112,7.5,1653,77,30
+Howrah,Alluvial,112,78,198,6.6,1712,71,26
+Howrah,Alluvial,157,57,199,6.9,1625,76,21
+Howrah,Alluvial,148,70,151,7.2,1689,79,27
+Howrah,Alluvial,192,53,169,7.3,1556,74,25
+Howrah,Alluvial,143,50,172,7.5,1845,72,22
+Howrah,Alluvial,177,72,182,7.1,1755,75,29
+Howrah,Alluvial,196,81,135,6.8,1921,78,23
+Howrah,Alluvial,118,63,147,7.4,1698,73,20
+Howrah,Alluvial,130,87,152,6.7,1614,77,28
+Howrah,Alluvial,199,54,132,7.2,1779,71,24
+Howrah,Alluvial,154,94,196,7.3,1876,76,29
+Howrah,Alluvial,189,56,120,7.5,1704,72,22
+Howrah,Alluvial,119,61,198,6.6,1832,75,30
+Howrah,Alluvial,142,84,189,6.9,1660,78,23
+Howrah,Alluvial,176,99,154,7,1583,79,27
+Howrah,Alluvial,187,66,192,7.1,1765,74,25
+Howrah,Alluvial,141,55,178,7.3,1689,77,21
+Howrah,Alluvial,160,88,186,6.7,1943,73,26
+Howrah,Alluvial,171,57,199,7.4,1556,80,22
+Howrah,Alluvial,149,90,157,7.2,1822,71,27
+Howrah,Alluvial,193,67,137,6.5,1654,76,23
+Howrah,Alluvial,131,98,180,7.3,1610,72,28
+Howrah,Alluvial,113,71,161,7,1687,79,24
+Howrah,Alluvial,169,51,195,6.8,1743,77,29
+Howrah,Alluvial,145,89,121,7.5,1792,74,20
+Howrah,Alluvial,177,93,193,6.7,1567,71,25
+Howrah,Alluvial,152,79,158,7.4,1625,75,30
+Howrah,Alluvial,192,54,197,7.1,1845,78,22
+Howrah,Alluvial,140,88,167,7.2,1780,72,27
+Howrah,Alluvial,186,66,157,6.6,1601,79,23
+Howrah,Alluvial,167,95,149,7.3,1832,73,28
+Howrah,Alluvial,125,60,177,7,1676,80,24
+Howrah,Alluvial,198,97,138,6.8,1755,75,29
+Howrah,Alluvial,161,62,163,7.5,1698,71,25
+Howrah,Alluvial,173,51,197,6.7,1635,76,20
+Howrah,Alluvial,143,86,145,7.4,1845,73,26
+Howrah,Alluvial,154,98,167,7.1,1712,77,21
+Howrah,Alluvial,197,53,169,7.3,1755,79,27
+Howrah,Alluvial,188,90,152,6.9,1689,72,22
+Howrah,Alluvial,167,62,168,7.2,1567,74,28
+Howrah,Alluvial,140,85,195,7.5,1625,78,23
+Howrah,Alluvial,151,55,158,6.6,1743,71,29
+Howrah,Alluvial,196,94,198,7.4,1779,75,20
+Howrah,Alluvial,119,65,175,7.1,1601,79,26
+Howrah,Alluvial,184,97,160,7.3,1635,76,21
+Howrah,Alluvial,165,60,178,6.8,1698,72,27
+Howrah,Alluvial,187,89,194,7,1712,74,22
+Howrah,Alluvial,129,72,159,7.5,1755,77,28
+Howrah,Alluvial,198,92,185,6.7,1625,80,23
+Howrah,Alluvial,135,54,171,7.4,1780,73,29
+Howrah,Alluvial,172,99,176,6.9,1845,75,24
+Howrah,Alluvial,121,79,134,7.2,1867,71,30
+Howrah,Alluvial,195,68,173,7,1698,76,25
+Howrah,Alluvial,141,50,158,6.6,1614,72,20
+Howrah,Alluvial,179,93,187,7.3,1779,79,26
+Howrah,Alluvial,168,63,192,7.1,1635,77,21
+Howrah,Alluvial,191,86,120,7.5,1780,74,27
+Howrah,Alluvial,146,97,158,6.7,1755,80,22
+Howrah,Alluvial,161,55,187,7.4,1822,73,28
+Howrah,Alluvial,133,90,179,7.1,1601,75,23
+Howrah,Alluvial,198,56,196,6.8,1755,78,29
+Howrah,Alluvial,145,63,152,7.2,1712,71,24
+Howrah,Alluvial,121,86,195,7.3,1635,74,20
+Howrah,Alluvial,176,97,168,7,1779,79,26
+Howrah,Alluvial,163,65,173,7.5,1755,72,21
+Howrah,Alluvial,153,92,181,6.9,1822,76,27
+Howrah,Alluvial,188,50,197,7.1,1698,73,22
+Howrah,Alluvial,141,86,199,6.6,1780,75,28
+Howrah,Alluvial,197,54,120,7.4,1653,78,23
+Howrah,Alluvial,155,99,176,7.2,1625,71,29
+Howrah,Alluvial,119,91,157,6.7,1779,76,24
+Howrah,Alluvial,174,63,163,7.3,1601,79,30
+Howrah,Alluvial,189,55,128,7,1755,72,25
+Howrah,Alluvial,166,98,147,7.5,1635,77,20
+Howrah,Alluvial,156,79,162,6.8,1779,80,26
+Howrah,Alluvial,152,54,187,7.4,1822,74,21
+Howrah,Alluvial,191,91,197,6.9,1698,76,27
+Howrah,Alluvial,129,86,120,7.2,1780,71,22
+Howrah,Alluvial,146,92,158,6.7,1755,75,28
+Howrah,Alluvial,198,59,173,7.4,1625,79,23
+Howrah,Alluvial,135,97,176,7.1,1779,72,29
+Howrah,Alluvial,143,65,195,6.8,1601,77,24
+Howrah,Alluvial,174,55,192,7.3,1635,80,30
+Howrah,Alluvial,167,92,181,7,1779,73,25
+Howrah,Alluvial,161,54,187,6.6,1822,76,20
+Howrah,Alluvial,191,91,197,7.5,1698,78,26
+Howrah,Alluvial,129,86,120,7.2,1780,71,21
+Howrah,Alluvial,146,92,158,6.7,1755,75,27
+Howrah,Alluvial,198,59,173,7.4,1625,79,22
+Howrah,Alluvial,135,97,176,7.1,1779,72,28
+Howrah,Alluvial,143,65,195,6.8,1601,77,23
+Howrah,Alluvial,174,55,192,7.3,1635,80,29
+Howrah,Alluvial,167,92,181,7,1779,73,24
+Howrah,Alluvial,161,54,187,6.6,1822,76,30
+Howrah,Alluvial,191,91,197,7.5,1698,78,25
+Howrah,Alluvial,129,86,120,7.2,1780,71,20
+Howrah,Alluvial,146,92,158,6.7,1755,75,26
+Howrah,Alluvial,198,59,173,7.4,1625,79,21
+Howrah,Alluvial,135,97,176,7.1,1779,72,27
+Howrah,Alluvial,143,65,195,6.8,1601,77,22
+Howrah,Alluvial,174,55,192,7.3,1635,80,28
+Howrah,Alluvial,167,92,181,7,1779,73,23
+Howrah,Alluvial,161,54,187,6.6,1822,76,29
+Howrah,Alluvial,191,91,197,7.5,1698,78,24
+Howrah,Alluvial,129,86,120,7.2,1780,71,25
+Howrah,Alluvial,146,92,158,6.7,1755,75,30
+Howrah,Alluvial,198,59,173,7.4,1625,79,20
+Howrah,Alluvial,135,97,176,7.1,1779,72,26
+Howrah,Alluvial,143,65,195,6.8,1601,77,21
+Howrah,Alluvial,174,55,192,7.3,1635,80,27
+Howrah,Alluvial,167,92,181,7,1779,73,22
+Howrah,Alluvial,161,54,187,6.6,1822,76,28
+Howrah,Alluvial,191,91,197,7.5,1698,78,23
+Howrah,Alluvial,129,86,120,7.2,1780,71,24
+Howrah,Alluvial,146,92,158,6.7,1755,75,29
+Howrah,Alluvial,198,59,173,7.4,1625,79,25
+Howrah,Alluvial,135,97,176,7.1,1779,72,20
+Howrah,Alluvial,143,65,195,6.8,1601,77,26
+Howrah,Alluvial,174,55,192,7.3,1635,80,21
+Howrah,Alluvial,167,92,181,7,1779,73,27
+Howrah,Alluvial,161,54,187,6.6,1822,76,22
+Howrah,Alluvial,191,91,197,7.5,1698,78,28
+Howrah,Alluvial,129,86,120,7.2,1780,71,23
+Howrah,Alluvial,146,92,158,6.7,1755,75,30
+Howrah,Alluvial,198,59,173,7.4,1625,79,20
+Howrah,Alluvial,135,97,176,7.1,1779,72,25
+Howrah,Alluvial,143,65,195,6.8,1601,77,29
+Howrah,Alluvial,174,55,192,7.3,1635,80,24
+Howrah,Alluvial,167,92,181,7,1779,73,21
+Howrah,Alluvial,161,54,187,6.6,1822,76,30
+Howrah,Alluvial,191,91,197,7.5,1698,78,25
+Howrah,Alluvial,129,86,120,7.2,1780,71,26
+Howrah,Alluvial,146,92,158,6.7,1755,75,20
+Howrah,Alluvial,198,59,173,7.4,1625,79,27
+Howrah,Alluvial,135,97,176,7.1,1779,72,22
+Howrah,Alluvial,143,65,195,6.8,1601,77,28
+Howrah,Alluvial,174,55,192,7.3,1635,80,23
+Howrah,Alluvial,167,92,181,7,1779,73,29
+Howrah,Alluvial,161,54,187,6.6,1822,76,24
+Howrah,Alluvial,191,91,197,7.5,1698,78,20
+Howrah,Alluvial,129,86,120,7.2,1780,71,25
+Howrah,Alluvial,146,92,158,6.7,1755,75,26
+Howrah,Alluvial,198,59,173,7.4,1625,79,21
+Howrah,Alluvial,135,97,176,7.1,1779,72,27
+Howrah,Alluvial,143,65,195,6.8,1601,77,22
+Howrah,Alluvial,174,55,192,7.3,1635,80,28
+Howrah,Alluvial,167,92,181,7,1779,73,23
+Howrah,Alluvial,161,54,187,6.6,1822,76,29
+Howrah,Alluvial,191,91,197,7.5,1698,78,24
+Howrah,Alluvial,129,86,120,7.2,1780,71,30
+Howrah,Alluvial,146,92,158,6.7,1755,75,20
+Howrah,Alluvial,198,59,173,7.4,1625,79,25
+Howrah,Alluvial,135,97,176,7.1,1779,72,26
+Howrah,Alluvial,143,65,195,6.8,1601,77,21
+Howrah,Alluvial,174,55,192,7.3,1635,80,27
+Howrah,Alluvial,167,92,181,7,1779,73,22
+Howrah,Alluvial,161,54,187,6.6,1822,76,28
+Howrah,Alluvial,191,91,197,7.5,1698,78,23
+Howrah,Alluvial,129,86,120,7.2,1780,71,29
+Howrah,Alluvial,146,92,158,6.7,1755,75,24
+Howrah,Alluvial,198,59,173,7.4,1625,79,20
+Howrah,Alluvial,135,97,176,7.1,1779,72,25
+Howrah,Alluvial,143,65,195,6.8,1601,77,30
+Howrah,Alluvial,174,55,192,7.3,1635,80,26
+Howrah,Alluvial,167,92,181,7,1779,73,21
+Howrah,Alluvial,161,54,187,6.6,1822,76,27
+Howrah,Alluvial,191,91,197,7.5,1698,78,22
+Jalpaiguri,Alluvial & Red/yellow,120,72,180,6,2200,80,25
+Jalpaiguri,Alluvial & Red/yellow,140,80,150,5.6,2350,85,30
+Jalpaiguri,Alluvial & Red/yellow,180,90,170,6.5,2050,75,22
+Jalpaiguri,Alluvial & Red/yellow,160,75,190,6.8,2100,82,27
+Jalpaiguri,Alluvial & Red/yellow,130,60,180,6.2,2250,78,28
+Jalpaiguri,Alluvial & Red/yellow,170,85,160,6.3,2400,83,26
+Jalpaiguri,Alluvial & Red/yellow,150,70,200,5.8,2300,79,24
+Jalpaiguri,Alluvial & Red/yellow,190,78,140,5.5,2000,77,29
+Jalpaiguri,Alluvial & Red/yellow,110,55,175,6.7,2450,84,23
+Jalpaiguri,Alluvial & Red/yellow,200,88,180,6.4,2150,81,21
+Jalpaiguri,Alluvial & Red/yellow,170,65,170,6.6,2200,80,22
+Jalpaiguri,Alluvial & Red/yellow,180,75,190,6.8,2100,82,26
+Jalpaiguri,Alluvial & Red/yellow,160,70,180,6.3,2250,78,24
+Jalpaiguri,Alluvial & Red/yellow,190,80,200,6,2350,85,30
+Jalpaiguri,Alluvial & Red/yellow,140,65,170,6.2,2150,81,25
+Jalpaiguri,Alluvial & Red/yellow,150,60,185,5.7,2200,80,23
+Jalpaiguri,Alluvial & Red/yellow,120,50,195,6.1,2400,83,27
+Jalpaiguri,Alluvial & Red/yellow,130,55,160,5.9,2050,75,22
+Jalpaiguri,Alluvial & Red/yellow,180,70,175,6.4,2150,81,28
+Jalpaiguri,Alluvial & Red/yellow,170,68,180,6.6,2100,82,24
+Jalpaiguri,Alluvial & Red/yellow,160,65,190,6.7,2250,78,29
+Jalpaiguri,Alluvial & Red/yellow,150,75,195,6.3,2200,80,21
+Jalpaiguri,Alluvial & Red/yellow,140,80,185,6.2,2300,79,26
+Jalpaiguri,Alluvial & Red/yellow,120,58,170,5.6,2000,77,23
+Jalpaiguri,Alluvial & Red/yellow,190,85,200,6.1,2400,83,27
+Jalpaiguri,Alluvial & Red/yellow,130,52,175,6.7,2350,85,30
+Jalpaiguri,Alluvial & Red/yellow,180,73,180,6.4,2250,78,25
+Jalpaiguri,Alluvial & Red/yellow,160,68,195,6.6,2200,80,22
+Jalpaiguri,Alluvial & Red/yellow,150,77,190,6.3,2050,75,28
+Jalpaiguri,Alluvial & Red/yellow,140,62,185,6,2100,82,24
+Jalpaiguri,Alluvial & Red/yellow,120,57,170,5.9,2200,80,29
+Jalpaiguri,Alluvial & Red/yellow,190,72,180,6.5,2300,79,26
+Jalpaiguri,Alluvial & Red/yellow,130,63,195,6.2,2150,81,23
+Jalpaiguri,Alluvial & Red/yellow,180,78,170,6.3,2400,83,27
+Jalpaiguri,Alluvial & Red/yellow,160,66,185,6.4,2200,80,25
+Jalpaiguri,Alluvial & Red/yellow,150,72,190,6.1,2350,85,30
+Jalpaiguri,Alluvial & Red/yellow,140,60,195,5.8,2250,78,22
+Jalpaiguri,Alluvial & Red/yellow,120,55,170,6.6,2000,77,27
+Jalpaiguri,Alluvial & Red/yellow,190,85,180,5.7,2450,84,21
+Jalpaiguri,Alluvial & Red/yellow,130,50,190,6,2200,80,28
+Jalpaiguri,Alluvial & Red/yellow,180,75,195,5.9,2250,78,23
+Jalpaiguri,Alluvial & Red/yellow,160,70,170,6.7,2350,85,29
+Jalpaiguri,Alluvial & Red/yellow,150,65,185,6.4,2300,79,24
+Jalpaiguri,Alluvial & Red/yellow,140,80,200,6.3,2150,81,30
+Jalpaiguri,Alluvial & Red/yellow,120,60,195,5.6,2400,83,26
+Jalpaiguri,Alluvial & Red/yellow,190,70,170,6.2,2050,75,22
+Jalpaiguri,Alluvial & Red/yellow,130,68,185,6.8,2100,82,27
+Jalpaiguri,Alluvial & Red/yellow,180,72,190,6.7,2200,80,25
+Jalpaiguri,Alluvial & Red/yellow,160,65,200,6.1,2300,79,23
+Jalpaiguri,Alluvial & Red/yellow,150,75,170,6.5,2250,78,28
+Jalpaiguri,Alluvial & Red/yellow,140,62,195,6.4,2400,83,24
+Jalpaiguri,Alluvial & Red/yellow,120,57,185,5.9,2350,85,29
+Jalpaiguri,Alluvial & Red/yellow,190,78,170,5.8,2200,80,26
+Jalpaiguri,Alluvial & Red/yellow,130,63,200,6.3,2150,81,21
+Jalpaiguri,Alluvial & Red/yellow,180,70,185,6.6,2050,75,27
+Jalpaiguri,Alluvial & Red/yellow,160,75,190,6.8,2100,82,22
+Jalpaiguri,Alluvial & Red/yellow,150,68,195,6.7,2250,78,28
+Jalpaiguri,Alluvial & Red/yellow,140,70,170,6.2,2400,83,23
+Jalpaiguri,Alluvial & Red/yellow,120,58,180,6.4,2300,79,29
+Jalpaiguri,Alluvial & Red/yellow,190,72,195,6,2200,80,24
+Jalpaiguri,Alluvial & Red/yellow,130,55,170,5.7,2250,78,30
+Jalpaiguri,Alluvial & Red/yellow,180,68,185,6.5,2400,83,25
+Jalpaiguri,Alluvial & Red/yellow,160,62,195,6.6,2050,75,22
+Jalpaiguri,Alluvial & Red/yellow,150,57,180,6.3,2100,82,27
+Jalpaiguri,Alluvial & Red/yellow,140,65,170,6.1,2200,80,23
+Jalpaiguri,Alluvial & Red/yellow,120,60,185,6.8,2150,81,28
+Jalpaiguri,Alluvial & Red/yellow,190,75,200,6.7,2300,79,24
+Jalpaiguri,Alluvial & Red/yellow,130,70,170,6.2,2350,85,29
+Jalpaiguri,Alluvial & Red/yellow,180,80,190,6.3,2200,80,25
+Jalpaiguri,Alluvial & Red/yellow,160,55,185,6.4,2050,75,21
+Jalpaiguri,Alluvial & Red/yellow,150,78,180,6.7,2400,83,26
+Jalpaiguri,Alluvial & Red/yellow,140,72,195,6.6,2250,78,22
+Jalpaiguri,Alluvial & Red/yellow,120,70,170,6.3,2200,80,27
+Jalpaiguri,Alluvial & Red/yellow,190,65,185,6,2400,83,23
+Jalpaiguri,Alluvial & Red/yellow,130,78,200,6.2,2150,81,28
+Jalpaiguri,Alluvial & Red/yellow,180,60,170,6.8,2250,78,24
+Jalpaiguri,Alluvial & Red/yellow,160,55,190,6.7,2300,79,29
+Jalpaiguri,Alluvial & Red/yellow,150,72,195,6.5,2200,80,25
+Jalpaiguri,Alluvial & Red/yellow,140,65,170,6.4,2350,85,30
+Jalpaiguri,Alluvial & Red/yellow,120,68,180,6.3,2100,82,26
+Jalpaiguri,Alluvial & Red/yellow,190,70,185,6.6,2050,75,22
+Jalpaiguri,Alluvial & Red/yellow,130,62,195,6.1,2200,80,27
+Jalpaiguri,Alluvial & Red/yellow,180,55,170,6.7,2250,78,23
+Jalpaiguri,Alluvial & Red/yellow,160,80,200,6.8,2400,83,28
+Jalpaiguri,Alluvial & Red/yellow,150,60,180,6,2300,79,24
+Jalpaiguri,Alluvial & Red/yellow,140,75,190,5.9,2150,81,29
+Jalpaiguri,Alluvial & Red/yellow,120,65,170,6.5,2200,80,25
+Jalpaiguri,Alluvial & Red/yellow,190,68,185,6.4,2350,85,30
+Jalpaiguri,Alluvial & Red/yellow,130,72,180,6.3,2050,75,26
+Jalpaiguri,Alluvial & Red/yellow,180,70,195,6,2100,82,21
+Jalpaiguri,Alluvial & Red/yellow,160,57,170,6.6,2250,78,27
+Jalpaiguri,Alluvial & Red/yellow,150,65,185,6.7,2200,80,22
+Jalpaiguri,Alluvial & Red/yellow,140,78,200,6.1,2400,83,28
+Jalpaiguri,Alluvial & Red/yellow,120,55,180,6.8,2300,79,23
+Jhargram,Red & Lateric,50,25,50,5.5,1200,70,20
+Jhargram,Red & Lateric,50,25,50,5.5,1200,70,30
+Jhargram,Red & Lateric,50,25,50,5.5,1200,80,20
+Jhargram,Red & Lateric,50,25,50,5.5,1200,80,30
+Jhargram,Red & Lateric,50,25,50,5.5,1500,70,20
+Jhargram,Red & Lateric,50,25,50,5.5,1500,70,30
+Jhargram,Red & Lateric,50,25,50,5.5,1500,80,20
+Jhargram,Red & Lateric,50,25,50,5.5,1500,80,30
+Jhargram,Red & Lateric,50,25,50,6.5,1200,70,20
+Jhargram,Red & Lateric,50,25,50,6.5,1200,70,30
+Jhargram,Red & Lateric,50,25,50,6.5,1200,80,20
+Jhargram,Red & Lateric,50,25,50,6.5,1200,80,30
+Jhargram,Red & Lateric,50,25,50,6.5,1500,70,20
+Jhargram,Red & Lateric,50,25,50,6.5,1500,70,30
+Jhargram,Red & Lateric,50,25,50,6.5,1500,80,20
+Jhargram,Red & Lateric,50,25,50,6.5,1500,80,30
+Jhargram,Red & Lateric,50,25,100,5.5,1200,70,20
+Jhargram,Red & Lateric,50,25,100,5.5,1200,70,30
+Jhargram,Red & Lateric,50,25,100,5.5,1200,80,20
+Jhargram,Red & Lateric,50,25,100,5.5,1200,80,30
+Jhargram,Red & Lateric,50,25,100,5.5,1500,70,20
+Jhargram,Red & Lateric,50,25,100,5.5,1500,70,30
+Jhargram,Red & Lateric,50,25,100,5.5,1500,80,20
+Jhargram,Red & Lateric,50,25,100,5.5,1500,80,30
+Jhargram,Red & Lateric,50,25,100,6.5,1200,70,20
+Jhargram,Red & Lateric,50,25,100,6.5,1200,70,30
+Jhargram,Red & Lateric,50,25,100,6.5,1200,80,20
+Jhargram,Red & Lateric,50,25,100,6.5,1200,80,30
+Kalimpong,Hill & Red/Yellow,50,25,100,4.5,2000,80,10
+Kalimpong,Hill & Red/Yellow,50,25,100,4.5,2000,80,20
+Kalimpong,Hill & Red/Yellow,50,25,100,4.5,2000,90,10
+Kalimpong,Hill & Red/Yellow,50,25,100,4.5,2000,90,20
+Kalimpong,Hill & Red/Yellow,50,25,100,4.5,3000,80,10
+Kalimpong,Hill & Red/Yellow,50,25,100,4.5,3000,80,20
+Kalimpong,Hill & Red/Yellow,50,25,100,4.5,3000,90,10
+Kalimpong,Hill & Red/Yellow,50,25,100,4.5,3000,90,20
+Kalimpong,Hill & Red/Yellow,50,25,100,6,2000,80,10
+Kalimpong,Hill & Red/Yellow,50,25,100,6,2000,80,20
+Kalimpong,Hill & Red/Yellow,50,25,100,6,2000,90,10
+Kalimpong,Hill & Red/Yellow,50,25,100,6,2000,90,20
+Kalimpong,Hill & Red/Yellow,50,25,100,6,3000,80,10
+Kalimpong,Hill & Red/Yellow,50,25,100,6,3000,80,20
+Kalimpong,Hill & Red/Yellow,50,25,100,6,3000,90,10
+Kalimpong,Hill & Red/Yellow,50,25,100,6,3000,90,20
+Kalimpong,Hill & Red/Yellow,100,25,50,4.5,2000,80,10
+Kalimpong,Hill & Red/Yellow,100,25,50,4.5,2000,80,20
+Kalimpong,Hill & Red/Yellow,100,25,50,4.5,2000,90,10
+Kalimpong,Hill & Red/Yellow,100,25,50,4.5,2000,90,20
+Kalimpong,Hill & Red/Yellow,100,25,50,4.5,3000,80,10
+Kalimpong,Hill & Red/Yellow,100,25,50,4.5,3000,80,20
+Kalimpong,Hill & Red/Yellow,100,25,50,4.5,3000,90,10
+Kalimpong,Hill & Red/Yellow,100,25,50,4.5,3000,90,20
+Kalimpong,Hill & Red/Yellow,100,25,50,6,2000,80,10
+Kalimpong,Hill & Red/Yellow,100,25,50,6,2000,80,20
+Kalimpong,Hill & Red/Yellow,100,25,50,6,2000,90,10
+Kalimpong,Hill & Red/Yellow,50,25,100,4.5,2000,80,10
+Kalimpong,Hill & Red/Yellow,50,25,100,4.5,2000,80,20
+Kalimpong,Hill & Red/Yellow,50,25,100,4.5,2000,90,10
+Kalimpong,Hill & Red/Yellow,50,25,100,4.5,2000,90,20
+Kalimpong,Hill & Red/Yellow,50,25,100,4.5,3000,80,10
+Kalimpong,Hill & Red/Yellow,50,25,100,4.5,3000,80,20
+Kalimpong,Hill & Red/Yellow,50,25,100,4.5,3000,90,10
+Kalimpong,Hill & Red/Yellow,50,25,100,4.5,3000,90,20
+Kalimpong,Hill & Red/Yellow,50,25,100,6,2000,80,10
+Kalimpong,Hill & Red/Yellow,50,25,100,6,2000,80,20
+Kalimpong,Hill & Red/Yellow,50,25,100,6,2000,90,10
+Kalimpong,Hill & Red/Yellow,50,25,100,6,2000,90,20
+Kalimpong,Hill & Red/Yellow,50,25,100,6,3000,80,10
+Kalimpong,Hill & Red/Yellow,50,25,100,6,3000,80,20
+Kalimpong,Hill & Red/Yellow,50,25,100,6,3000,90,10
+Kalimpong,Hill & Red/Yellow,50,25,100,6,3000,90,20
+Kalimpong,Hill & Red/Yellow,100,25,50,4.5,2000,80,10
+Kalimpong,Hill & Red/Yellow,100,25,50,4.5,2000,80,20
+Kalimpong,Hill & Red/Yellow,100,25,50,4.5,2000,90,10
+Kalimpong,Hill & Red/Yellow,100,25,50,4.5,2000,90,20
+Kalimpong,Hill & Red/Yellow,100,25,50,4.5,3000,80,10
+Kalimpong,Hill & Red/Yellow,100,25,50,4.5,3000,80,20
+Kalimpong,Hill & Red/Yellow,100,25,50,4.5,3000,90,10
+Kalimpong,Hill & Red/Yellow,100,25,50,4.5,3000,90,20
+Kalimpong,Hill & Red/Yellow,100,25,50,6,2000,80,10
+Kalimpong,Hill & Red/Yellow,100,25,50,6,2000,80,20
+Kalimpong,Hill & Red/Yellow,100,25,50,6,2000,90,10
+Kolkata,Alluvial,100,50,100,6.5,1500,70,20
+Kolkata,Alluvial,100,50,100,6.5,1500,70,30
+Kolkata,Alluvial,100,50,100,6.5,1500,80,20
+Kolkata,Alluvial,100,50,100,6.5,1500,80,30
+Kolkata,Alluvial,100,50,100,6.5,2000,70,20
+Kolkata,Alluvial,100,50,100,6.5,2000,70,30
+Kolkata,Alluvial,100,50,100,6.5,2000,80,20
+Kolkata,Alluvial,100,50,100,6.5,2000,80,30
+Kolkata,Alluvial,100,50,100,7.5,1500,70,20
+Kolkata,Alluvial,100,50,100,7.5,1500,70,30
+Kolkata,Alluvial,100,50,100,7.5,1500,80,20
+Kolkata,Alluvial,100,50,100,7.5,1500,80,30
+Kolkata,Alluvial,100,50,100,7.5,2000,70,20
+Kolkata,Alluvial,100,50,100,7.5,2000,70,30
+Kolkata,Alluvial,100,50,100,7.5,2000,80,20
+Kolkata,Alluvial,100,50,100,7.5,2000,80,30
+Kolkata,Alluvial,100,50,200,6.5,1500,70,20
+Kolkata,Alluvial,100,50,200,6.5,1500,70,30
+Kolkata,Alluvial,100,50,200,6.5,1500,80,20
+Kolkata,Alluvial,100,50,200,6.5,1500,80,30
+Kolkata,Alluvial,100,50,200,6.5,2000,70,20
+Kolkata,Alluvial,100,50,200,6.5,2000,70,30
+Kolkata,Alluvial,100,50,200,6.5,2000,80,20
+Kolkata,Alluvial,100,50,200,6.5,2000,80,30
+Kolkata,Alluvial,100,50,200,7.5,1500,70,20
+Kolkata,Alluvial,100,50,200,7.5,1500,70,30
+Kolkata,Alluvial,100,50,200,7.5,1500,80,20
+Kolkata,Alluvial,100,50,100,6.5,1500,70,20
+Kolkata,Alluvial,100,50,100,6.5,1500,70,30
+Kolkata,Alluvial,100,50,100,6.5,1500,80,20
+Kolkata,Alluvial,100,50,100,6.5,1500,80,30
+Kolkata,Alluvial,100,50,100,6.5,2000,70,20
+Kolkata,Alluvial,100,50,100,6.5,2000,70,30
+Kolkata,Alluvial,100,50,100,6.5,2000,80,20
+Kolkata,Alluvial,100,50,100,6.5,2000,80,30
+Kolkata,Alluvial,100,50,100,7.5,1500,70,20
+Kolkata,Alluvial,100,50,100,7.5,1500,70,30
+Kolkata,Alluvial,100,50,100,7.5,1500,80,20
+Kolkata,Alluvial,100,50,100,7.5,1500,80,30
+Kolkata,Alluvial,100,50,100,7.5,2000,70,20
+Kolkata,Alluvial,100,50,100,7.5,2000,70,30
+Kolkata,Alluvial,100,50,100,7.5,2000,80,20
+Kolkata,Alluvial,100,50,100,7.5,2000,80,30
+Kolkata,Alluvial,100,50,200,6.5,1500,70,20
+Kolkata,Alluvial,100,50,200,6.5,1500,70,30
+Kolkata,Alluvial,100,50,200,6.5,1500,80,20
+Kolkata,Alluvial,100,50,200,6.5,1500,80,30
+Kolkata,Alluvial,100,50,200,6.5,2000,70,20
+Kolkata,Alluvial,100,50,200,6.5,2000,70,30
+Kolkata,Alluvial,100,50,200,6.5,2000,80,20
+Kolkata,Alluvial,100,50,200,6.5,2000,80,30
+Kolkata,Alluvial,100,50,200,7.5,1500,70,20
+Kolkata,Alluvial,100,50,200,7.5,1500,70,30
+Kolkata,Alluvial,100,50,200,7.5,1500,80,20
+Malda,Alluvial,150,75,150,7,1750,75,25
+Malda,Alluvial,120,60,180,7.2,1800,78,22
+Malda,Alluvial,180,80,120,6.8,1600,72,28
+Malda,Alluvial,130,70,150,7.4,1900,80,23
+Malda,Alluvial,110,55,130,7.1,1700,76,26
+Malda,Alluvial,170,85,110,7.3,2000,77,21
+Malda,Alluvial,140,65,140,7,1750,73,27
+Malda,Alluvial,190,95,100,6.6,1500,79,24
+Malda,Alluvial,120,50,170,7.5,1850,71,29
+Malda,Alluvial,160,75,130,7.2,1650,74,25
+Malda,Alluvial,140,60,160,6.8,2000,76,22
+Malda,Alluvial,110,80,120,7.4,1750,78,20
+Malda,Alluvial,180,65,140,7.1,1900,70,28
+Malda,Alluvial,130,85,110,7.3,1800,72,23
+Malda,Alluvial,150,70,130,7,1600,79,26
+Malda,Alluvial,170,95,100,7.5,1700,77,21
+Malda,Alluvial,120,60,150,7.2,1850,75,24
+Malda,Alluvial,140,80,120,6.6,1900,71,29
+Malda,Alluvial,160,50,170,7.1,1750,73,27
+Malda,Alluvial,190,75,130,7.4,2000,74,25
+Malda,Alluvial,110,65,140,7,1600,79,22
+Malda,Alluvial,130,95,100,7.3,1800,77,20
+Malda,Alluvial,150,60,150,7.2,1750,70,28
+Malda,Alluvial,170,80,120,6.8,1650,72,23
+Malda,Alluvial,180,50,170,7.1,2000,76,26
+Malda,Alluvial,120,75,130,7.4,1900,78,21
+Malda,Alluvial,140,95,100,7,1850,73,24
+Malda,Alluvial,160,70,140,7.5,1600,79,29
+Malda,Alluvial,110,60,160,7.2,1800,71,25
+Malda,Alluvial,130,80,120,7.3,1900,70,27
+Malda,Alluvial,150,50,170,7.1,1650,71,24
+Malda,Alluvial,170,75,130,7.4,1750,79,25
+Malda,Alluvial,180,85,110,7,1850,77,20
+Malda,Alluvial,120,70,130,6.6,2000,72,28
+Malda,Alluvial,140,95,100,7.5,1600,74,23
+Malda,Alluvial,160,60,150,7.2,1900,76,26
+Malda,Alluvial,110,80,120,7.1,1750,79,21
+Malda,Alluvial,130,50,170,6.8,1700,71,29
+Malda,Alluvial,150,75,130,7.3,1850,73,27
+Malda,Alluvial,170,85,110,7,1600,78,24
+Malda,Alluvial,180,60,150,7.4,1800,77,22
+Malda,Alluvial,120,70,140,6.6,1750,79,25
+Malda,Alluvial,140,95,100,7,2000,72,20
+Malda,Alluvial,160,60,160,7.2,1900,74,28
+Malda,Alluvial,110,80,120,7.5,1650,76,26
+Malda,Alluvial,130,50,170,7,1750,71,23
+Malda,Alluvial,150,75,130,6.8,1800,77,27
+Malda,Alluvial,170,85,110,7.3,1900,79,22
+Malda,Alluvial,180,60,150,6.8,1850,72,27
+Malda,Alluvial,120,70,140,7.1,1750,77,23
+Malda,Alluvial,140,95,100,6.6,1750,72,26
+Malda,Alluvial,160,60,160,7.2,2000,74,23
+Uttar Dinajpur (North Dinajpur),Alluvial,110,80,120,6.8,1850,71,25
+Uttar Dinajpur (North Dinajpur),Alluvial,130,50,170,6.6,1800,73,22
+Uttar Dinajpur (North Dinajpur),Alluvial,150,75,130,7.1,1900,76,27
+Uttar Dinajpur (North Dinajpur),Alluvial,170,85,110,7.3,1750,79,20
+Uttar Dinajpur (North Dinajpur),Alluvial,180,60,150,7,1850,77,27
+Uttar Dinajpur (North Dinajpur),Alluvial,120,70,140,7.4,2000,72,20
+Uttar Dinajpur (North Dinajpur),Alluvial,140,95,100,7,1750,76,23
+Uttar Dinajpur (North Dinajpur),Alluvial,160,60,160,7.5,1700,79,28
+Uttar Dinajpur (North Dinajpur),Alluvial,110,80,120,6.8,1850,71,25
+Uttar Dinajpur (North Dinajpur),Alluvial,130,50,170,6.6,1800,73,22
+Uttar Dinajpur (North Dinajpur),Alluvial,150,75,130,7.1,1900,76,27
+Uttar Dinajpur (North Dinajpur),Alluvial,170,85,110,7.3,1750,79,20
+Uttar Dinajpur (North Dinajpur),Alluvial,180,60,150,7,1600,72,26
+Uttar Dinajpur (North Dinajpur),Alluvial,120,70,140,6.8,2000,76,23
+Uttar Dinajpur (North Dinajpur),Alluvial,140,95,100,7.4,1850,77,21
+Uttar Dinajpur (North Dinajpur),Alluvial,160,60,160,7.5,1700,74,28
+Uttar Dinajpur (North Dinajpur),Alluvial,110,80,120,7.2,1850,71,25
+Uttar Dinajpur (North Dinajpur),Alluvial,130,50,170,6.6,1800,73,22
+Uttar Dinajpur (North Dinajpur),Alluvial,150,75,130,7.1,1900,78,27
+Uttar Dinajpur (North Dinajpur),Alluvial,170,85,110,7.3,1750,79,20
+Uttar Dinajpur (North Dinajpur),Alluvial,180,60,150,7,1850,72,27
+Uttar Dinajpur (North Dinajpur),Alluvial,120,70,140,6.6,1750,79,27
+Uttar Dinajpur (North Dinajpur),Alluvial,140,95,100,7,2000,71,24
+Uttar Dinajpur (North Dinajpur),Alluvial,160,60,160,7.2,1700,73,26
+Uttar Dinajpur (North Dinajpur),Alluvial,110,80,120,6.8,1850,76,21
+Uttar Dinajpur (North Dinajpur),Alluvial,130,50,170,6.6,1800,78,24
+Uttar Dinajpur (North Dinajpur),Alluvial,150,75,130,7.1,1850,72,26
+Uttar Dinajpur (North Dinajpur),Alluvial,170,85,110,7.4,1750,79,23
+Uttar Dinajpur (North Dinajpur),Alluvial,180,60,150,6.8,1850,72,27
+Uttar Dinajpur (North Dinajpur),Alluvial,120,70,140,7.4,2000,77,20
+Uttar Dinajpur (North Dinajpur),Alluvial,140,95,100,7,1750,76,23
+Uttar Dinajpur (North Dinajpur),Alluvial,160,60,160,7.5,1700,79,28
+Uttar Dinajpur (North Dinajpur),Alluvial,110,80,120,7.2,1850,71,25
+Uttar Dinajpur (North Dinajpur),Alluvial,130,50,170,6.6,1800,73,22
+Uttar Dinajpur (North Dinajpur),Alluvial,150,75,130,7.1,1900,76,27
+Uttar Dinajpur (North Dinajpur),Alluvial,170,85,110,7.3,1750,79,20
+Uttar Dinajpur (North Dinajpur),Alluvial,180,60,150,7,1600,72,26
+Uttar Dinajpur (North Dinajpur),Alluvial,120,70,140,6.8,2000,76,23
+Uttar Dinajpur (North Dinajpur),Alluvial,140,95,100,7.4,1850,77,21
+Uttar Dinajpur (North Dinajpur),Alluvial,160,60,160,7.5,1700,74,28
+Uttar Dinajpur (North Dinajpur),Alluvial,110,80,120,6.6,1850,71,25
+Uttar Dinajpur (North Dinajpur),Alluvial,130,50,170,6.6,1800,73,22
+Uttar Dinajpur (North Dinajpur),Alluvial,150,75,130,7.1,1900,78,27
+Uttar Dinajpur (North Dinajpur),Alluvial,170,85,110,7.3,1750,79,20
+Uttar Dinajpur (North Dinajpur),Alluvial,180,60,150,7,1850,72,27
+Uttar Dinajpur (North Dinajpur),Alluvial,120,70,140,6.6,1750,79,27
+Uttar Dinajpur (North Dinajpur),Alluvial,140,95,100,7,2000,71,24
+Uttar Dinajpur (North Dinajpur),Alluvial,160,60,160,7.2,1700,73,26
+Uttar Dinajpur (North Dinajpur),Alluvial,110,80,120,6.8,1850,76,21
+Uttar Dinajpur (North Dinajpur),Alluvial,130,50,170,6.6,1800,78,24
+Uttar Dinajpur (North Dinajpur),Alluvial,150,75,130,7.1,1850,72,26
+Uttar Dinajpur (North Dinajpur),Alluvial,170,85,110,7.4,1750,79,23
+Uttar Dinajpur (North Dinajpur),Alluvial,180,60,150,6.8,1850,72,27
+Uttar Dinajpur (North Dinajpur),Alluvial,120,70,140,7.4,2000,77,20
+Uttar Dinajpur (North Dinajpur),Alluvial,140,95,100,7,1750,76,23
+Uttar Dinajpur (North Dinajpur),Alluvial,160,60,160,7.5,1700,79,28
+Uttar Dinajpur (North Dinajpur),Alluvial,110,80,120,7.2,1850,71,25
+Uttar Dinajpur (North Dinajpur),Alluvial,130,50,170,6.6,1800,73,22
+Uttar Dinajpur (North Dinajpur),Alluvial,150,75,130,7.1,1900,76,27
+Uttar Dinajpur (North Dinajpur),Alluvial,170,85,110,7.3,1750,79,20
+Uttar Dinajpur (North Dinajpur),Alluvial,180,60,150,7,1600,72,26
+Uttar Dinajpur (North Dinajpur),Alluvial,120,70,140,6.6,1750,79,27
+Uttar Dinajpur (North Dinajpur),Alluvial,140,95,100,7,2000,71,24
+Uttar Dinajpur (North Dinajpur),Alluvial,160,60,160,7.2,1700,73,26
+Uttar Dinajpur (North Dinajpur),Alluvial,110,80,120,6.8,1850,76,21
+Uttar Dinajpur (North Dinajpur),Alluvial,130,50,170,6.6,1800,78,24
+Uttar Dinajpur (North Dinajpur),Alluvial,150,75,130,7.1,1850,72,26
+Uttar Dinajpur (North Dinajpur),Alluvial,170,85,110,7.4,1750,79,23
+Uttar Dinajpur (North Dinajpur),Alluvial,180,60,150,6.8,1850,72,27
+Uttar Dinajpur (North Dinajpur),Alluvial,120,70,140,7.4,2000,77,20
+Uttar Dinajpur (North Dinajpur),Alluvial,140,95,100,7,1750,76,23
+Uttar Dinajpur (North Dinajpur),Alluvial,160,60,160,7.5,1700,79,28
+Uttar Dinajpur (North Dinajpur),Alluvial,120,60,150,7.2,1850,75,25
+Uttar Dinajpur (North Dinajpur),Alluvial,140,80,120,6.8,1700,78,20
+Uttar Dinajpur (North Dinajpur),Alluvial,160,50,170,7.1,2000,72,28
+Uttar Dinajpur (North Dinajpur),Alluvial,180,75,130,7.4,1750,76,23
+Uttar Dinajpur (North Dinajpur),Alluvial,110,65,140,7,1600,79,26
+Uttar Dinajpur (North Dinajpur),Alluvial,130,95,100,7.3,1800,77,21
+Uttar Dinajpur (North Dinajpur),Alluvial,150,60,160,7.2,1750,70,27
+Uttar Dinajpur (North Dinajpur),Alluvial,170,80,120,6.6,1900,74,22
+Uttar Dinajpur (North Dinajpur),Alluvial,180,50,170,7.1,2000,76,26
+Uttar Dinajpur (North Dinajpur),Alluvial,120,75,130,7.4,1900,78,21
+Uttar Dinajpur (North Dinajpur),Alluvial,140,95,100,7,1850,73,24
+Uttar Dinajpur (North Dinajpur),Alluvial,160,70,140,7.5,1600,79,29
+Uttar Dinajpur (North Dinajpur),Alluvial,110,60,160,7.2,1800,71,25
+Uttar Dinajpur (North Dinajpur),Alluvial,130,80,120,6.6,1750,74,22
+Uttar Dinajpur (North Dinajpur),Alluvial,150,50,150,7.3,1900,76,27
+Uttar Dinajpur (North Dinajpur),Alluvial,170,75,130,7.1,2000,72,20
+Uttar Dinajpur (North Dinajpur),Alluvial,180,65,140,7.4,1700,77,23
+Uttar Dinajpur (North Dinajpur),Alluvial,120,85,110,7,1850,79,28
+Uttar Dinajpur (North Dinajpur),Alluvial,140,70,130,7.5,1600,78,26
+Uttar Dinajpur (North Dinajpur),Alluvial,160,95,100,7.2,1750,73,21
+Uttar Dinajpur (North Dinajpur),Alluvial,110,60,160,6.8,1800,76,22
+Uttar Dinajpur (North Dinajpur),Alluvial,130,80,120,7.3,1900,70,27
+Uttar Dinajpur (North Dinajpur),Alluvial,150,50,170,7.1,1650,71,24
+Uttar Dinajpur (North Dinajpur),Alluvial,170,75,130,7.4,1750,79,25
+Uttar Dinajpur (North Dinajpur),Alluvial,180,85,110,7,1850,77,20
+Uttar Dinajpur (North Dinajpur),Alluvial,120,70,130,6.6,2000,72,28
+Uttar Dinajpur (North Dinajpur),Alluvial,140,95,100,7.5,1600,74,23
+Uttar Dinajpur (North Dinajpur),Alluvial,160,60,150,7.2,1900,76,26
+Uttar Dinajpur (North Dinajpur),Alluvial,110,80,120,7.1,1750,79,21
+Uttar Dinajpur (North Dinajpur),Alluvial,130,50,170,6.8,1700,71,29
+Uttar Dinajpur (North Dinajpur),Alluvial,150,75,130,7.3,1850,73,27
+Uttar Dinajpur (North Dinajpur),Alluvial,170,85,110,7,1600,78,24
+Uttar Dinajpur (North Dinajpur),Alluvial,180,60,150,7.4,1800,77,22
+Uttar Dinajpur (North Dinajpur),Alluvial,120,70,140,6.6,1750,79,25
+Uttar Dinajpur (North Dinajpur),Alluvial,140,95,100,7,2000,72,20
+Uttar Dinajpur (North Dinajpur),Alluvial,160,60,160,7.2,1900,74,28
+South 24 Parganas,Alluvial,120,60,150,7.2,1750,75,24
+South 24 Parganas,Alluvial,140,80,120,6.6,1900,71,29
+South 24 Parganas,Alluvial,160,50,170,7.1,1650,73,27
+South 24 Parganas,Alluvial,190,75,130,7.4,2000,74,25
+South 24 Parganas,Alluvial,110,65,140,7,1600,79,22
+South 24 Parganas,Alluvial,130,95,100,7.3,1800,77,20
+South 24 Parganas,Alluvial,150,60,150,7.2,1850,75,24
+South 24 Parganas,Alluvial,170,80,120,6.8,1650,72,23
+South 24 Parganas,Alluvial,180,50,170,7.1,2000,76,26
+South 24 Parganas,Alluvial,120,75,130,7.4,1900,78,21
+South 24 Parganas,Alluvial,140,95,100,7,1850,73,24
+South 24 Parganas,Alluvial,160,70,140,7.5,1600,79,29
+South 24 Parganas,Alluvial,110,60,160,7.2,1800,71,25
+South 24 Parganas,Alluvial,130,80,120,6.6,1750,74,22
+South 24 Parganas,Alluvial,150,50,150,7.3,1900,76,27
+South 24 Parganas,Alluvial,170,75,130,7.1,2000,72,20
+South 24 Parganas,Alluvial,180,65,140,7.4,1700,77,23
+South 24 Parganas,Alluvial,120,85,110,7,1850,79,28
+South 24 Parganas,Alluvial,140,70,130,7.5,1600,78,26
+South 24 Parganas,Alluvial,160,95,100,7.2,1750,73,21
+South 24 Parganas,Alluvial,110,60,160,6.8,1800,76,22
+South 24 Parganas,Alluvial,130,80,120,7.3,1900,70,27
+South 24 Parganas,Alluvial,150,50,170,7.1,1650,71,24
+South 24 Parganas,Alluvial,170,75,130,7.4,1750,79,25
+South 24 Parganas,Alluvial,180,85,110,7,1850,77,20
+South 24 Parganas,Alluvial,120,70,130,6.6,2000,72,28
+South 24 Parganas,Alluvial,140,95,100,7.5,1600,74,23
+South 24 Parganas,Alluvial,160,60,150,7.2,1900,76,26
+South 24 Parganas,Alluvial,110,80,120,7.1,1750,79,21
+South 24 Parganas,Alluvial,130,50,170,6.8,1700,71,29
+South 24 Parganas,Alluvial,150,75,130,7.3,1850,73,27
+South 24 Parganas,Alluvial,170,85,110,7,1600,78,24
+South 24 Parganas,Alluvial,180,60,150,7.4,1800,77,22
+South 24 Parganas,Alluvial,120,70,140,6.6,1750,79,25
+South 24 Parganas,Alluvial,140,95,100,7.1,2000,72,20
+South 24 Parganas,Alluvial,160,60,160,7.2,1900,74,28
+South 24 Parganas,Alluvial,110,80,120,7.5,1650,76,26
+South 24 Parganas,Alluvial,130,50,170,7,1750,71,23
+South 24 Parganas,Alluvial,150,75,130,6.8,1800,77,27
+South 24 Parganas,Alluvial,170,85,110,7.3,1900,79,22
+South 24 Parganas,Alluvial,180,60,150,7.4,1600,73,24
+South 24 Parganas,Alluvial,120,70,140,7.1,1850,70,21
+South 24 Parganas,Alluvial,140,95,100,6.6,1750,72,26
+South 24 Parganas,Alluvial,160,60,160,7.2,2000,74,23
+South 24 Parganas,Alluvial,110,80,120,7.5,1700,78,28
+South 24 Parganas,Alluvial,130,50,170,7,1750,79,25
+South 24 Parganas,Alluvial,150,75,130,7.3,1600,71,22
+South 24 Parganas,Alluvial,170,85,110,6.8,1850,76,27
+South 24 Parganas,Alluvial,180,60,150,7,1600,72,26
+South 24 Parganas,Alluvial,120,70,140,7.4,2000,77,20
+South 24 Parganas,Alluvial,140,95,100,7,1750,76,23
+South 24 Parganas,Alluvial,160,60,160,7.5,1700,79,28
+South 24 Parganas,Alluvial,110,80,120,7.2,1850,71,25
+South 24 Parganas,Alluvial,130,50,170,6.6,1800,73,22
+South 24 Parganas,Alluvial,150,75,130,7.1,1900,78,27
+South 24 Parganas,Alluvial,170,85,110,7.3,1750,79,20
+South 24 Parganas,Alluvial,180,60,150,6.8,1850,72,27
+South 24 Parganas,Alluvial,120,70,140,7.1,1750,77,23
+South 24 Parganas,Alluvial,140,95,100,6.6,2000,79,26
+South 24 Parganas,Alluvial,160,60,160,7.2,1700,73,21
+South 24 Parganas,Alluvial,110,80,120,6.6,1800,71,24
+South 24 Parganas,Alluvial,130,50,170,7.5,1750,74,29
+South 24 Parganas,Alluvial,150,75,130,7.3,1900,76,25
+South 24 Parganas,Alluvial,170,85,110,7,1600,79,22
+South 24 Parganas,Alluvial,180,60,150,6.6,1900,72,28
+South 24 Parganas,Alluvial,120,70,140,7.4,1600,79,21
+South 24 Parganas,Alluvial,140,95,100,7,2000,77,23
+South 24 Parganas,Alluvial,160,60,160,7.2,1900,71,26
+South 24 Parganas,Alluvial,110,80,120,6.8,1750,73,21
+South 24 Parganas,Alluvial,130,50,170,7,1800,78,27
+South 24 Parganas,Alluvial,150,75,130,7.3,1850,76,22
+South 24 Parganas,Alluvial,170,85,110,7,1600,79,25
+South 24 Parganas,Alluvial,180,60,150,6.6,1900,72,23
+South 24 Parganas,Alluvial,120,70,140,7.1,1750,74,28
+South 24 Parganas,Alluvial,140,95,100,7.4,2000,76,21
+South 24 Parganas,Alluvial,160,60,160,7,1700,79,26
+South 24 Parganas,Alluvial,110,80,120,7.5,1650,71,25
+South 24 Parganas,Alluvial,130,50,170,6.6,1800,79,22
+South 24 Parganas,Alluvial,150,75,130,7.1,1850,73,27
+South 24 Parganas,Alluvial,170,85,110,7.3,1900,76,20
+South 24 Parganas,Alluvial,180,60,150,7.4,1600,72,26
+South 24 Parganas,Alluvial,120,70,140,6.6,1750,79,25
+South 24 Parganas,Alluvial,140,95,100,7,1850,71,20
+South 24 Parganas,Alluvial,160,60,160,7.2,2000,73,27
+South 24 Parganas,Alluvial,110,80,120,7.5,1700,76,22
+South 24 Parganas,Alluvial,130,50,170,7,1750,78,26
+South 24 Parganas,Alluvial,150,75,130,6.8,1800,79,23
+South 24 Parganas,Alluvial,170,85,110,7.3,1850,72,28
+South 24 Parganas,Alluvial,180,60,150,7,1600,74,21
+South 24 Parganas,Alluvial,120,70,140,6.6,1900,77,25
+South 24 Parganas,Alluvial,140,95,100,7.1,1750,76,29
+South 24 Parganas,Alluvial,160,60,160,7.2,1850,71,27
+South 24 Parganas,Alluvial,110,80,120,7.5,1700,73,20
+South 24 Parganas,Alluvial,130,50,170,6.8,1800,78,24
+South 24 Parganas,Alluvial,150,75,130,7,1850,72,26
+South 24 Parganas,Alluvial,170,85,110,7.3,1900,74,23
+South 24 Parganas,Alluvial,180,60,150,7.4,1600,76,28
+South 24 Parganas,Alluvial,120,70,140,7.1,1750,79,25
+South 24 Parganas,Alluvial,140,95,100,6.6,2000,71,20
+South 24 Parganas,Alluvial,160,60,160,7.2,1700,73,27
+Purulia,Red loamy,60,30,80,6,1300,65,20
+Purulia,Red loamy,80,40,60,6.2,1400,68,18
+Purulia,Red loamy,70,35,70,5.8,1200,63,25
+Purulia,Red loamy,50,25,90,6.5,1500,70,22
+Purulia,Red loamy,90,45,50,5.5,1250,66,28
+Purulia,Red loamy,65,30,75,6.3,1350,62,24
+Purulia,Red loamy,75,40,55,6.1,1450,67,21
+Purulia,Red loamy,55,35,65,6.4,1300,64,26
+Purulia,Red loamy,85,25,85,6.2,1400,68,20
+Purulia,Red loamy,60,45,75,6,1300,65,22
+Purulia,Red loamy,80,35,55,6.2,1400,68,18
+Purulia,Red loamy,70,30,65,5.8,1200,63,25
+Purulia,Red loamy,50,25,90,6.5,1500,70,22
+Purulia,Red loamy,90,45,50,5.5,1250,66,28
+Purulia,Red loamy,65,30,75,6.3,1350,62,24
+Purulia,Red loamy,75,40,55,6.1,1450,67,21
+Purulia,Red loamy,55,35,65,6.4,1300,64,26
+Purulia,Red loamy,85,25,85,6.2,1400,68,20
+Purulia,Red loamy,60,45,75,6,1300,65,22
+Purulia,Red loamy,80,35,55,6.2,1400,68,18
+Purulia,Red loamy,70,30,65,5.8,1200,63,25
+Purulia,Red loamy,50,25,90,6.5,1500,70,22
+Purulia,Red loamy,90,45,50,5.5,1250,66,28
+Purulia,Red loamy,65,30,75,6.3,1350,62,24
+Purulia,Red loamy,75,40,55,6.1,1450,67,21
+Purulia,Red loamy,55,35,65,6.4,1300,64,26
+Purulia,Red loamy,85,25,85,6.2,1400,68,20
+Purulia,Red loamy,60,45,75,6,1300,65,22
+Purulia,Red loamy,80,35,55,6.2,1400,68,18
+Purulia,Red loamy,70,30,65,5.8,1200,63,25
+Purulia,Red loamy,50,25,90,6.5,1500,70,22
+Purulia,Red loamy,90,45,50,5.5,1250,66,28
+Purulia,Red loamy,65,30,75,6.3,1350,62,24
+Purulia,Red loamy,75,40,55,6.1,1450,67,21
+Purulia,Red loamy,55,35,65,6.4,1300,64,26
+Purulia,Red loamy,85,25,85,6.2,1400,68,20
+Purulia,Red loamy,60,45,75,6,1300,65,22
+Purulia,Red loamy,80,35,55,6.2,1400,68,18
+Purulia,Red loamy,70,30,65,5.8,1200,63,25
+Purulia,Red loamy,50,25,90,6.5,1500,70,22
+Purulia,Red loamy,90,45,50,5.5,1250,66,28
+Purulia,Red loamy,65,30,75,6.3,1350,62,24
+Purulia,Red loamy,75,40,55,6.1,1450,67,21
+Purulia,Red loamy,55,35,65,6.4,1300,64,26
+Purulia,Red loamy,85,25,85,6.2,1400,68,20
+Purulia,Red loamy,60,45,75,6,1300,65,22
+Purulia,Red loamy,80,35,55,6.2,1400,68,18
+Purulia,Red loamy,70,30,65,5.8,1200,63,25
+Purulia,Red loamy,50,25,90,6.5,1500,70,22
+Purulia,Red loamy,90,45,50,5.5,1250,66,28
+Purulia,Red loamy,65,30,75,6.3,1350,62,24
+Purulia,Red loamy,75,40,55,6.1,1450,67,21
+Purulia,Red loamy,55,35,65,6.4,1300,64,26
+Purulia,Red loamy,85,25,85,6.2,1400,68,20
+Purulia,Red loamy,60,45,75,6,1300,65,22
+Purulia,Red loamy,80,35,55,6.2,1400,68,18
+Purulia,Red loamy,70,30,65,5.8,1200,63,25
+Purulia,Red loamy,50,25,90,6.5,1500,70,22
+Purulia,Red loamy,90,45,50,5.5,1250,66,28
+Purulia,Red loamy,65,30,75,6.3,1350,62,24
+Purulia,Red loamy,75,40,55,6.1,1450,67,21
+Purulia,Red loamy,55,35,65,6.4,1300,64,26
+Purulia,Red loamy,85,25,85,6.2,1400,68,20
+Purulia,Red loamy,60,45,75,6,1300,65,22
+Purulia,Red loamy,80,35,55,6.2,1400,68,18
+Purulia,Red loamy,70,30,65,5.8,1200,63,25
+Purulia,Red loamy,50,25,90,6.5,1500,70,22
+Purulia,Red loamy,90,45,50,5.5,1250,66,28
+Purulia,Red loamy,65,30,75,6.3,1350,62,24
+Purulia,Red loamy,75,40,55,6.1,1450,67,21
+Purulia,Red loamy,55,35,65,6.4,1300,64,26
+Purulia,Red loamy,85,25,85,6.2,1400,68,20
+Purulia,Red loamy,60,45,75,6,1300,65,22
+Purulia,Red loamy,80,35,55,6.2,1400,68,18
+Purulia,Red loamy,70,30,65,5.8,1200,63,25
+Purulia,Red loamy,50,25,90,6.5,1500,70,22
+Purulia,Red loamy,90,45,50,5.5,1250,66,28
+Purulia,Red loamy,65,30,75,6.3,1350,62,24
+Purulia,Red loamy,75,40,55,6.1,1450,67,21
+Purulia,Red loamy,55,35,65,6.4,1300,64,26
+Purulia,Red loamy,85,25,85,6.2,1400,68,20
+Purulia,Red loamy,60,45,75,6,1300,65,22
+Purulia,Red loamy,80,35,55,6.2,1400,68,18
+Purulia,Red loamy,70,30,65,5.8,1200,63,25
+Purulia,Red loamy,50,25,90,6.5,1500,70,22
+Purulia,Red loamy,90,45,50,5.5,1250,66,28
+Purulia,Red loamy,65,30,75,6.3,1350,62,24
+Purulia,Red loamy,75,40,55,6.1,1450,67,21
+Purulia,Red loamy,55,35,65,6.4,1300,64,26
+Purulia,Red loamy,85,25,85,6.2,1400,68,20
+Purulia,Red loamy,60,45,75,6,1300,65,22
+Purulia,Red loamy,80,35,55,6.2,1400,68,18
+Purulia,Red loamy,70,30,65,5.8,1200,63,25
+Purulia,Red loamy,50,25,90,6.5,1500,70,22
+Purulia,Red loamy,90,45,50,5.5,1250,66,28
+Purulia,Red loamy,65,30,75,6.3,1350,62,24
+Purulia,Red loamy,75,40,55,6.1,1450,67,21
+Purulia,Red loamy,55,35,65,6.4,1300,64,26
+Purulia,Red loamy,85,25,85,6.2,1400,68,20
+Purulia,Red loamy,60,45,75,6,1300,65,22
+Purba Medinipur,Lateritic,120,80,120,6,1400,76,25
+Purba Medinipur,Lateritic,140,60,130,6.3,1300,78,22
+Purba Medinipur,Lateritic,110,70,110,5.8,1500,74,28
+Purba Medinipur,Lateritic,130,90,120,6.5,1200,72,23
+Purba Medinipur,Lateritic,150,50,140,5.6,1350,77,27
+Purba Medinipur,Lateritic,170,75,130,6.2,1450,79,26
+Purba Medinipur,Lateritic,180,85,110,6,1250,71,30
+Purba Medinipur,Lateritic,120,60,120,5.5,1300,75,20
+Purba Medinipur,Lateritic,140,80,130,6.4,1400,73,25
+Purba Medinipur,Lateritic,110,90,110,5.9,1500,76,22
+Purba Medinipur,Lateritic,130,70,140,6.1,1200,78,28
+Purba Medinipur,Lateritic,150,50,120,6.5,1350,74,23
+Purba Medinipur,Lateritic,170,75,110,5.7,1450,72,27
+Purba Medinipur,Lateritic,180,85,130,6.2,1250,77,26
+Purba Medinipur,Lateritic,120,60,110,5.5,1300,79,30
+Purba Medinipur,Lateritic,140,80,120,6.4,1400,71,25
+Purba Medinipur,Lateritic,110,90,130,6,1500,73,22
+Purba Medinipur,Lateritic,130,70,110,6.1,1200,76,28
+Purba Medinipur,Lateritic,150,50,120,5.6,1350,74,27
+Purba Medinipur,Lateritic,170,75,140,6.3,1450,78,26
+Purba Medinipur,Lateritic,180,85,110,6.2,1250,72,23
+Purba Medinipur,Lateritic,120,60,120,5.8,1300,75,28
+Purba Medinipur,Lateritic,140,80,130,6.4,1400,79,25
+Purba Medinipur,Lateritic,110,90,110,5.9,1500,76,22
+Purba Medinipur,Lateritic,130,70,140,6.1,1200,73,27
+Purba Medinipur,Lateritic,150,50,120,6.5,1350,72,20
+Purba Medinipur,Lateritic,170,75,110,5.7,1450,74,26
+Purba Medinipur,Lateritic,180,85,130,6.2,1250,77,23
+Purba Medinipur,Lateritic,120,60,110,5.5,1300,78,28
+Purba Medinipur,Lateritic,140,80,120,6.4,1400,76,25
+Purba Medinipur,Lateritic,110,90,130,6,1500,71,22
+Purba Medinipur,Lateritic,130,70,110,6.1,1200,79,27
+Purba Medinipur,Lateritic,150,50,120,5.6,1350,77,26
+Purba Medinipur,Lateritic,170,75,140,6.3,1450,72,23
+Purba Medinipur,Lateritic,180,85,110,6.2,1250,74,27
+Purba Medinipur,Lateritic,120,60,120,5.8,1300,78,26
+Purba Medinipur,Lateritic,140,80,130,6.4,1400,71,25
+Purba Medinipur,Lateritic,110,90,110,5.9,1500,73,22
+Purba Medinipur,Lateritic,130,70,140,6.1,1200,76,28
+Purba Medinipur,Lateritic,150,50,120,6.5,1350,72,23
+Purba Medinipur,Lateritic,170,75,110,5.7,1450,77,27
+Purba Medinipur,Lateritic,180,85,130,6.2,1250,78,26
+Purba Medinipur,Lateritic,120,60,110,5.5,1300,74,20
+Purba Medinipur,Lateritic,140,80,120,6.4,1400,76,25
+Purba Medinipur,Lateritic,110,90,130,6,1500,79,22
+Purba Medinipur,Lateritic,130,70,110,6.1,1200,71,27
+Purba Medinipur,Lateritic,150,50,120,5.6,1350,72,26
+Purba Medinipur,Lateritic,170,75,140,6.3,1450,77,23
+Purba Medinipur,Lateritic,180,85,110,6.2,1250,76,27
+Purba Medinipur,Lateritic,120,60,120,5.8,1300,79,25
+Purba Medinipur,Lateritic,140,80,130,6.4,1400,71,22
+Purba Medinipur,Lateritic,110,90,110,5.9,1500,73,28
+Purba Medinipur,Lateritic,130,70,140,6.1,1200,76,23
+Purba Medinipur,Lateritic,150,50,120,6.5,1350,74,27
+Purba Medinipur,Lateritic,170,75,110,5.7,1450,72,26
+Purba Medinipur,Lateritic,180,85,130,6.2,1250,77,23
+Purba Medinipur,Lateritic,120,60,110,5.5,1300,78,28
+Purba Medinipur,Lateritic,140,80,120,6.4,1400,76,25
+Purba Medinipur,Lateritic,110,90,130,6,1500,71,22
+Purba Medinipur,Lateritic,130,70,110,6.1,1200,73,27
+Purba Medinipur,Lateritic,150,50,120,5.6,1350,77,26
+Purba Medinipur,Lateritic,170,75,140,6.3,1450,72,23
+Purba Medinipur,Lateritic,180,85,110,6.2,1250,74,27
+Purba Medinipur,Lateritic,120,60,120,5.8,1300,79,25
+Purba Medinipur,Lateritic,140,80,130,6.4,1400,71,22
+Purba Medinipur,Lateritic,110,90,110,5.9,1500,73,28
+Purba Medinipur,Lateritic,130,70,140,6.1,1200,76,23
+Purba Medinipur,Lateritic,150,50,120,6.5,1350,74,27
+Purba Medinipur,Lateritic,170,75,110,5.7,1450,72,26
+Purba Medinipur,Lateritic,180,85,130,6.2,1250,77,23
+Purba Medinipur,Lateritic,120,60,110,5.5,1300,78,28
+Purba Medinipur,Lateritic,140,80,120,6.4,1400,76,25
+Purba Medinipur,Lateritic,110,90,130,6,1500,79,22
+Purba Medinipur,Lateritic,130,70,110,6.1,1200,71,27
+Purba Medinipur,Lateritic,150,50,120,5.6,1350,77,26
+Purba Medinipur,Lateritic,170,75,140,6.3,1450,72,23
+Purba Medinipur,Lateritic,180,85,110,6.2,1250,74,27
+Purba Medinipur,Lateritic,120,60,120,5.8,1300,79,25
+Purba Medinipur,Lateritic,140,80,130,6.4,1400,71,22
+Purba Medinipur,Lateritic,110,90,110,5.9,1500,73,28
+Purba Medinipur,Lateritic,130,70,140,6.1,1200,76,23
+Purba Medinipur,Lateritic,150,50,120,6.5,1350,74,27
+Purba Medinipur,Lateritic,170,75,110,5.7,1450,72,26
+Purba Medinipur,Lateritic,180,85,130,6.2,1250,77,23
+Purba Medinipur,Lateritic,120,60,110,5.5,1300,78,28
+Purba Medinipur,Lateritic,140,80,120,6.4,1400,76,25
+Purba Medinipur,Lateritic,110,90,130,6,1500,79,22
+Purba Medinipur,Lateritic,130,70,110,6.1,1200,71,27
+Purba Medinipur,Lateritic,150,50,120,5.6,1350,77,26
+Purba Medinipur,Lateritic,170,75,140,6.3,1450,72,23
+Purba Medinipur,Lateritic,180,85,110,6.2,1250,74,27
+Purba Medinipur,Lateritic,120,60,120,5.8,1300,79,25
+Purba Medinipur,Lateritic,140,80,130,6.4,1400,71,22
+Purba Medinipur,Lateritic,110,90,110,5.9,1500,73,28
+Purba Medinipur,Lateritic,130,70,140,6.1,1200,76,23
+Purba Medinipur,Lateritic,150,50,120,6.5,1350,74,27
+Purba Medinipur,Lateritic,170,75,110,5.7,1450,72,26
+Purba Medinipur,Lateritic,180,85,130,6.2,1250,77,23
+Purba Medinipur,Lateritic,120,60,110,5.5,1300,78,28
+Purba Medinipur,Lateritic,140,80,120,6.4,1400,76,25
+Purba Bardhaman,Alluvial,150,80,140,7,1800,75,25
+Purba Bardhaman,Alluvial,130,70,160,7.2,1900,78,22
+Purba Bardhaman,Alluvial,170,90,130,6.8,1600,72,28
+Purba Bardhaman,Alluvial,140,75,150,7.4,2000,80,23
+Purba Bardhaman,Alluvial,120,65,120,7.1,1700,76,26
+Purba Bardhaman,Alluvial,160,85,140,7.3,1850,77,21
+Purba Bardhaman,Alluvial,140,70,130,7,1750,73,27
+Purba Bardhaman,Alluvial,190,100,100,6.6,1500,79,24
+Purba Bardhaman,Alluvial,120,60,170,7.5,1850,71,29
+Purba Bardhaman,Alluvial,160,75,140,7.2,1650,74,25
+Purba Bardhaman,Alluvial,140,60,160,6.8,2000,76,22
+Purba Bardhaman,Alluvial,110,80,120,7.4,1750,78,20
+Purba Bardhaman,Alluvial,180,65,140,7.1,1900,70,28
+Purba Bardhaman,Alluvial,130,85,110,7.3,1800,72,23
+Purba Bardhaman,Alluvial,150,70,130,7,1600,79,26
+Purba Bardhaman,Alluvial,170,100,100,7.5,1700,77,21
+Purba Bardhaman,Alluvial,120,60,150,7.2,1850,75,24
+Purba Bardhaman,Alluvial,140,80,120,6.6,1900,71,29
+Purba Bardhaman,Alluvial,160,50,170,7.1,1750,73,27
+Purba Bardhaman,Alluvial,190,75,130,7.4,2000,74,25
+Purba Bardhaman,Alluvial,110,65,140,7,1600,79,22
+Purba Bardhaman,Alluvial,130,100,100,7.3,1800,77,20
+Purba Bardhaman,Alluvial,150,60,150,7.2,1750,70,28
+Purba Bardhaman,Alluvial,170,80,120,6.8,1650,72,23
+Purba Bardhaman,Alluvial,180,50,170,7.1,2000,76,26
+Purba Bardhaman,Alluvial,120,75,130,7.4,1900,78,21
+Purba Bardhaman,Alluvial,140,100,100,7,1850,73,24
+Purba Bardhaman,Alluvial,160,70,140,7.5,1600,79,29
+Purba Bardhaman,Alluvial,110,60,160,7.2,1800,71,25
+Purba Bardhaman,Alluvial,130,80,120,6.6,1750,74,22
+Purba Bardhaman,Alluvial,150,50,150,7.3,1900,76,27
+Purba Bardhaman,Alluvial,170,75,130,7.1,2000,72,20
+Purba Bardhaman,Alluvial,180,65,140,7.4,1700,77,23
+Purba Bardhaman,Alluvial,120,85,110,7,1850,79,28
+Purba Bardhaman,Alluvial,140,70,130,7.5,1600,78,26
+Purba Bardhaman,Alluvial,160,100,100,7.2,1750,73,21
+Purba Bardhaman,Alluvial,110,60,160,6.8,1800,76,22
+Purba Bardhaman,Alluvial,130,80,120,7.3,1900,70,27
+Purba Bardhaman,Alluvial,150,50,170,7.1,1650,71,24
+Purba Bardhaman,Alluvial,170,75,130,7.4,1750,79,25
+Purba Bardhaman,Alluvial,180,85,110,7,1850,77,20
+Purba Bardhaman,Alluvial,120,70,130,6.6,2000,72,28
+Purba Bardhaman,Alluvial,140,100,100,7.5,1600,74,23
+Purba Bardhaman,Alluvial,160,60,150,7.2,1900,76,26
+Purba Bardhaman,Alluvial,110,80,120,7.1,1750,79,21
+Purba Bardhaman,Alluvial,130,50,170,6.8,1700,71,29
+Purba Bardhaman,Alluvial,150,75,130,7.3,1850,73,27
+Purba Bardhaman,Alluvial,170,85,110,7,1600,78,24
+Purba Bardhaman,Alluvial,180,60,150,7.4,1800,77,22
+Purba Bardhaman,Alluvial,120,70,140,6.6,1750,79,25
+Purba Bardhaman,Alluvial,140,100,100,7.1,2000,72,20
+Purba Bardhaman,Alluvial,160,60,160,7.2,1900,74,28
+Purba Bardhaman,Alluvial,110,80,120,7.5,1650,76,26
+Purba Bardhaman,Alluvial,130,50,170,7,1750,71,23
+Purba Bardhaman,Alluvial,150,75,130,6.8,1800,77,27
+Purba Bardhaman,Alluvial,170,85,110,7.3,1900,79,22
+Purba Bardhaman,Alluvial,180,60,150,6.8,1850,72,27
+Purba Bardhaman,Alluvial,120,70,140,7.4,2000,77,20
+Purba Bardhaman,Alluvial,140,100,100,7,1750,72,26
+Purba Bardhaman,Alluvial,160,60,160,7.2,2000,74,23
+Purba Bardhaman,Alluvial,110,80,120,7.5,1700,78,28
+Purba Bardhaman,Alluvial,130,50,170,7,1750,79,25
+Purba Bardhaman,Alluvial,150,75,130,7.3,1600,71,22
+Purba Bardhaman,Alluvial,170,85,110,6.8,1850,76,27
+Purba Bardhaman,Alluvial,180,60,150,7.4,1900,72,20
+Purba Bardhaman,Alluvial,120,70,140,7.1,1750,77,23
+Purba Bardhaman,Alluvial,140,100,100,6.6,1750,72,26
+Purba Bardhaman,Alluvial,160,60,160,7.2,1900,74,28
+Purba Bardhaman,Alluvial,110,80,120,6.8,1750,73,21
+Purba Bardhaman,Alluvial,130,50,170,7.5,1800,78,27
+Purba Bardhaman,Alluvial,150,75,130,7.3,1850,76,22
+Purba Bardhaman,Alluvial,170,85,110,7,1600,79,25
+Purba Bardhaman,Alluvial,180,60,150,6.6,1900,72,23
+Purba Bardhaman,Alluvial,120,70,140,7.1,1750,74,28
+Purba Bardhaman,Alluvial,140,100,100,7,2000,76,21
+Purba Bardhaman,Alluvial,160,60,150,7.2,1700,79,26
+Purba Bardhaman,Alluvial,110,80,120,7.5,1850,71,25
+Purba Bardhaman,Alluvial,130,50,170,6.6,1800,73,22
+Purba Bardhaman,Alluvial,150,75,130,7.1,1900,78,27
+Purba Bardhaman,Alluvial,170,85,110,7.3,1750,79,20
+Purba Bardhaman,Alluvial,180,60,150,7,1600,72,24
+Purba Bardhaman,Alluvial,120,70,140,7.4,2000,77,28
+Purba Bardhaman,Alluvial,140,100,100,7,1750,76,23
+Purba Bardhaman,Alluvial,160,60,160,7.5,1700,79,28
+Purba Bardhaman,Alluvial,110,80,120,7.2,1850,71,25
+Purba Bardhaman,Alluvial,130,50,170,6.6,1800,79,22
+Purba Bardhaman,Alluvial,150,75,130,7.3,1850,73,27
+Purba Bardhaman,Alluvial,170,85,110,7,1600,78,24
+Purba Bardhaman,Alluvial,180,60,150,7.4,1800,77,22
+Purba Bardhaman,Alluvial,120,70,140,6.6,1750,79,25
+Purba Bardhaman,Alluvial,140,100,100,7.1,2000,72,20
+Purba Bardhaman,Alluvial,160,60,160,7.2,1900,74,28
+Purba Bardhaman,Alluvial,110,80,120,7.5,1650,76,26
+Purba Bardhaman,Alluvial,130,50,170,7,1750,71,23
+Purba Bardhaman,Alluvial,150,75,130,6.8,1800,77,27
+Purba Bardhaman,Alluvial,170,85,110,7.3,1900,79,22
+Purba Bardhaman,Alluvial,180,60,150,6.8,1850,72,27
+Purba Bardhaman,Alluvial,120,70,140,7.4,2000,77,20
+Purba Bardhaman,Alluvial,140,100,100,7,1750,76,23
+Purba Bardhaman,Alluvial,160,60,160,7.2,2000,74,26
+Paschim Medinipur,Lateritic,120,70,130,6,1400,75,25
+Paschim Medinipur,Lateritic,140,95,100,5.8,1300,78,22
+Paschim Medinipur,Lateritic,160,60,120,6.2,1500,72,28
+Paschim Medinipur,Lateritic,110,80,110,5.6,1200,77,23
+Paschim Medinipur,Lateritic,130,50,140,6.4,1450,79,27
+Paschim Medinipur,Lateritic,150,75,130,5.9,1350,73,24
+Paschim Medinipur,Lateritic,170,85,120,6.6,1550,76,21
+Paschim Medinipur,Lateritic,180,60,110,6.1,1250,79,26
+Paschim Medinipur,Lateritic,120,70,130,5.7,1400,71,25
+Paschim Medinipur,Lateritic,140,95,100,6.5,1300,74,22
+Paschim Medinipur,Lateritic,160,60,120,5.5,1500,76,28
+Paschim Medinipur,Lateritic,110,80,110,6.3,1200,78,23
+Paschim Medinipur,Lateritic,130,50,140,6,1450,79,27
+Paschim Medinipur,Lateritic,150,75,130,5.8,1350,73,24
+Paschim Medinipur,Lateritic,170,85,120,6.7,1550,76,21
+Paschim Medinipur,Lateritic,180,60,110,6.2,1250,79,26
+Paschim Medinipur,Lateritic,120,70,130,6.4,1400,71,25
+Paschim Medinipur,Lateritic,140,95,100,5.9,1300,74,22
+Paschim Medinipur,Lateritic,160,60,120,6.6,1500,76,28
+Paschim Medinipur,Lateritic,110,80,110,6.1,1200,78,23
+Paschim Medinipur,Lateritic,130,50,140,6.7,1450,79,27
+Paschim Medinipur,Lateritic,150,75,130,5.5,1350,73,24
+Paschim Medinipur,Lateritic,170,85,120,6.4,1550,76,21
+Paschim Medinipur,Lateritic,180,60,110,5.8,1250,79,26
+Paschim Medinipur,Lateritic,120,70,130,6.2,1400,71,25
+Paschim Medinipur,Lateritic,140,95,100,6.8,1300,74,22
+Paschim Medinipur,Lateritic,160,60,120,5.6,1500,76,28
+Paschim Medinipur,Lateritic,110,80,110,6.5,1200,78,23
+Paschim Medinipur,Lateritic,130,50,140,5.9,1450,79,27
+Paschim Medinipur,Lateritic,150,75,130,6.7,1350,73,24
+Paschim Medinipur,Lateritic,170,85,120,5.5,1550,76,21
+Paschim Medinipur,Lateritic,180,60,110,6.4,1250,79,26
+Paschim Medinipur,Lateritic,120,70,130,6,1400,71,25
+Paschim Medinipur,Lateritic,140,95,100,6.6,1300,74,22
+Paschim Medinipur,Lateritic,160,60,120,5.8,1500,76,28
+Paschim Medinipur,Lateritic,110,80,110,6.2,1200,78,23
+Paschim Medinipur,Lateritic,130,50,140,6.8,1450,79,27
+Paschim Medinipur,Lateritic,150,75,130,5.9,1350,73,24
+Paschim Medinipur,Lateritic,170,85,120,6.6,1550,76,21
+Paschim Medinipur,Lateritic,180,60,110,6.1,1250,79,26
+Paschim Medinipur,Lateritic,120,70,130,6.4,1400,71,25
+Paschim Medinipur,Lateritic,140,95,100,5.8,1300,74,22
+Paschim Medinipur,Lateritic,160,60,120,6.7,1500,76,28
+Paschim Medinipur,Lateritic,110,80,110,6.3,1200,78,23
+Paschim Medinipur,Lateritic,130,50,140,5.5,1450,79,27
+Paschim Medinipur,Lateritic,150,75,130,6.4,1350,73,24
+Paschim Medinipur,Lateritic,170,85,120,5.9,1550,76,21
+Paschim Medinipur,Lateritic,180,60,110,6.7,1250,79,26
+Paschim Medinipur,Lateritic,120,70,130,5.5,1400,71,25
+Paschim Medinipur,Lateritic,140,95,100,6.4,1300,74,22
+Paschim Medinipur,Lateritic,160,60,120,5.8,1500,76,28
+Paschim Medinipur,Lateritic,110,80,110,6.6,1200,78,23
+Paschim Medinipur,Lateritic,130,50,140,6.1,1450,79,27
+Paschim Medinipur,Lateritic,150,75,130,6.7,1350,73,24
+Paschim Medinipur,Lateritic,170,85,120,5.5,1550,76,21
+Paschim Medinipur,Lateritic,180,60,110,6.4,1250,79,26
+Paschim Medinipur,Lateritic,120,70,130,6,1400,71,25
+Paschim Medinipur,Lateritic,140,95,100,6.6,1300,74,22
+Paschim Medinipur,Lateritic,160,60,120,5.8,1500,76,28
+Paschim Medinipur,Lateritic,110,80,110,6.2,1200,78,23
+Paschim Medinipur,Lateritic,130,50,140,6.7,1450,79,27
+Paschim Medinipur,Lateritic,150,75,130,5.9,1350,73,24
+Paschim Medinipur,Lateritic,170,85,120,6.6,1550,76,21
+Paschim Medinipur,Lateritic,180,60,110,6.1,1250,79,26
+Paschim Medinipur,Lateritic,120,70,130,6.4,1400,71,25
+Paschim Medinipur,Lateritic,140,95,100,5.8,1300,74,22
+Paschim Medinipur,Lateritic,160,60,120,6.7,1500,76,28
+Paschim Medinipur,Lateritic,110,80,110,6.3,1200,78,23
+Paschim Medinipur,Lateritic,130,50,140,5.5,1450,79,27
+Paschim Medinipur,Lateritic,150,75,130,6.4,1350,73,24
+Paschim Medinipur,Lateritic,170,85,120,5.9,1550,76,21
+Paschim Medinipur,Lateritic,180,60,110,6.6,1250,79,26
+Paschim Medinipur,Lateritic,120,70,130,6,1400,71,25
+Paschim Medinipur,Lateritic,140,95,100,6.6,1300,74,22
+Paschim Medinipur,Lateritic,160,60,120,5.8,1500,76,28
+Paschim Medinipur,Lateritic,110,80,110,6.2,1200,78,23
+Paschim Medinipur,Lateritic,130,50,140,6.7,1450,79,27
+Paschim Medinipur,Lateritic,150,75,130,5.9,1350,73,24
+Paschim Medinipur,Lateritic,170,85,120,6.6,1550,76,21
+Paschim Medinipur,Lateritic,180,60,110,6.1,1250,79,26
+Paschim Medinipur,Lateritic,120,70,130,6.4,1400,71,25
+Paschim Medinipur,Lateritic,140,95,100,5.8,1300,74,22
+Paschim Medinipur,Lateritic,160,60,120,6.7,1500,76,28
+Paschim Medinipur,Lateritic,110,80,110,6.3,1200,78,23
+Paschim Medinipur,Lateritic,130,50,140,5.5,1450,79,27
+Paschim Medinipur,Lateritic,150,75,130,6.4,1350,73,24
+Paschim Medinipur,Lateritic,170,85,120,5.9,1550,76,21
+Paschim Medinipur,Lateritic,180,60,110,6.6,1250,79,26
+Paschim Medinipur,Lateritic,120,70,130,6,1400,71,25
+Paschim Medinipur,Lateritic,140,95,100,6.6,1300,74,22
+Paschim Medinipur,Lateritic,160,60,120,5.8,1500,76,28
+Paschim Medinipur,Lateritic,110,80,110,6.2,1200,78,23
+Paschim Medinipur,Lateritic,130,50,140,6.7,1450,79,27
+Paschim Medinipur,Lateritic,150,75,130,5.9,1350,73,24
+Paschim Medinipur,Lateritic,170,85,120,6.6,1550,76,21
+Paschim Medinipur,Lateritic,180,60,110,6.1,1250,79,26
+Paschim Medinipur,Lateritic,120,70,130,6.4,1400,71,25
+Paschim Medinipur,Lateritic,140,95,100,5.8,1300,74,22
+Paschim Medinipur,Lateritic,160,60,120,6.7,1500,76,28
+Paschim Medinipur,Lateritic,110,80,110,6.3,1200,78,23
+Paschim Bardhaman,Alluvial & Red/Yellow,150,75,150,7,1750,75,25
+Paschim Bardhaman,Alluvial & Red/Yellow,120,60,180,7.2,1800,78,22
+Paschim Bardhaman,Alluvial & Red/Yellow,180,80,120,6.8,1600,72,28
+Paschim Bardhaman,Alluvial & Red/Yellow,130,70,150,7.4,1900,80,23
+Paschim Bardhaman,Alluvial & Red/Yellow,110,55,130,7.1,1700,76,26
+Paschim Bardhaman,Alluvial & Red/Yellow,170,85,110,7.3,2000,77,21
+Paschim Bardhaman,Alluvial & Red/Yellow,140,65,140,7,1750,73,27
+Paschim Bardhaman,Alluvial & Red/Yellow,190,95,100,6.6,1500,79,24
+Paschim Bardhaman,Alluvial & Red/Yellow,120,50,170,7.5,1850,71,29
+Paschim Bardhaman,Alluvial & Red/Yellow,160,75,130,7.2,1650,74,25
+Paschim Bardhaman,Alluvial & Red/Yellow,140,60,160,6.8,2000,76,22
+Paschim Bardhaman,Alluvial & Red/Yellow,110,80,120,7.4,1750,78,20
+Paschim Bardhaman,Alluvial & Red/Yellow,180,65,140,7.1,1900,70,28
+Paschim Bardhaman,Alluvial & Red/Yellow,130,85,110,7.3,1800,72,23
+Paschim Bardhaman,Alluvial & Red/Yellow,150,70,130,7,1600,79,26
+Paschim Bardhaman,Alluvial & Red/Yellow,170,95,100,7.5,1700,77,21
+Paschim Bardhaman,Alluvial & Red/Yellow,120,60,150,7.2,1850,75,24
+Paschim Bardhaman,Alluvial & Red/Yellow,140,80,120,6.6,1900,71,29
+Paschim Bardhaman,Alluvial & Red/Yellow,160,50,170,7.1,1750,73,27
+Paschim Bardhaman,Alluvial & Red/Yellow,190,75,130,7.4,2000,74,25
+Paschim Bardhaman,Alluvial & Red/Yellow,110,65,140,7,1600,79,22
+Paschim Bardhaman,Alluvial & Red/Yellow,130,95,100,7.3,1800,77,20
+Paschim Bardhaman,Alluvial & Red/Yellow,150,60,150,7.2,1750,70,28
+Paschim Bardhaman,Alluvial & Red/Yellow,170,80,120,6.8,1650,72,23
+Paschim Bardhaman,Alluvial & Red/Yellow,180,50,170,7.1,2000,76,26
+Paschim Bardhaman,Alluvial & Red/Yellow,120,75,130,7.4,1900,78,21
+Paschim Bardhaman,Alluvial & Red/Yellow,140,95,100,7,1850,73,24
+Paschim Bardhaman,Alluvial & Red/Yellow,160,70,140,7.5,1600,79,29
+Paschim Bardhaman,Alluvial & Red/Yellow,110,60,160,7.2,1800,71,25
+Paschim Bardhaman,Alluvial & Red/Yellow,130,80,120,6.6,1750,74,22
+Paschim Bardhaman,Alluvial & Red/Yellow,150,50,150,7.3,1900,76,27
+Paschim Bardhaman,Alluvial & Red/Yellow,170,75,130,7.1,2000,72,20
+Paschim Bardhaman,Alluvial & Red/Yellow,180,65,140,7.4,1700,77,23
+Paschim Bardhaman,Alluvial & Red/Yellow,120,85,110,7,1850,79,28
+Paschim Bardhaman,Alluvial & Red/Yellow,140,70,130,7.5,1600,78,26
+Paschim Bardhaman,Alluvial & Red/Yellow,160,95,100,7.2,1750,73,21
+Paschim Bardhaman,Alluvial & Red/Yellow,110,60,160,6.8,1800,76,22
+Paschim Bardhaman,Alluvial & Red/Yellow,130,80,120,7.3,1900,70,27
+Paschim Bardhaman,Alluvial & Red/Yellow,150,50,170,7.1,1650,71,24
+Paschim Bardhaman,Alluvial & Red/Yellow,170,75,130,7.4,1750,79,25
+Paschim Bardhaman,Alluvial & Red/Yellow,180,85,110,7,1850,77,20
+Paschim Bardhaman,Alluvial & Red/Yellow,120,70,130,6.6,2000,72,28
+Paschim Bardhaman,Alluvial & Red/Yellow,140,95,100,7.5,1600,74,23
+Paschim Bardhaman,Alluvial & Red/Yellow,160,60,150,7.2,1900,76,26
+Paschim Bardhaman,Alluvial & Red/Yellow,110,80,120,7.1,1750,79,21
+Paschim Bardhaman,Alluvial & Red/Yellow,130,50,170,6.8,1700,71,29
+Paschim Bardhaman,Alluvial & Red/Yellow,150,75,130,7.3,1850,73,27
+Paschim Bardhaman,Alluvial & Red/Yellow,170,85,110,7,1600,78,24
+Paschim Bardhaman,Alluvial & Red/Yellow,180,60,150,7.4,1800,77,22
+Paschim Bardhaman,Alluvial & Red/Yellow,120,70,140,7.1,1750,74,28
+Paschim Bardhaman,Alluvial & Red/Yellow,140,95,100,6.6,1750,76,23
+Paschim Bardhaman,Alluvial & Red/Yellow,160,60,160,7.5,1700,79,26
+Paschim Bardhaman,Alluvial & Red/Yellow,110,80,120,7.2,1850,71,25
+Paschim Bardhaman,Alluvial & Red/Yellow,130,50,170,6.6,1800,73,22
+Paschim Bardhaman,Alluvial & Red/Yellow,150,75,130,7.1,1900,78,27
+Paschim Bardhaman,Alluvial & Red/Yellow,170,85,110,7.3,1900,79,22
+Paschim Bardhaman,Alluvial & Red/Yellow,180,60,150,6.8,1850,72,27
+Paschim Bardhaman,Alluvial & Red/Yellow,120,70,140,7.4,2000,77,20
+Paschim Bardhaman,Alluvial & Red/Yellow,140,95,100,7,1750,76,23
+Paschim Bardhaman,Alluvial & Red/Yellow,160,60,160,7.2,1900,71,26
+Paschim Bardhaman,Alluvial & Red/Yellow,110,80,120,7.5,1650,76,26
+Paschim Bardhaman,Alluvial & Red/Yellow,130,50,170,7,1750,71,23
+Paschim Bardhaman,Alluvial & Red/Yellow,150,75,130,6.8,1800,77,27
+Paschim Bardhaman,Alluvial & Red/Yellow,170,85,110,7.3,1900,79,22
+Paschim Bardhaman,Alluvial & Red/Yellow,180,60,150,7.4,1800,77,22
+Paschim Bardhaman,Alluvial & Red/Yellow,120,70,140,6.6,1750,79,25
+Paschim Bardhaman,Alluvial & Red/Yellow,140,95,100,7,2000,72,20
+Paschim Bardhaman,Alluvial & Red/Yellow,160,60,160,7.2,1900,74,28
+Paschim Bardhaman,Alluvial & Red/Yellow,110,80,120,7.1,1750,79,21
+Paschim Bardhaman,Alluvial & Red/Yellow,130,50,170,6.8,1700,71,29
+Paschim Bardhaman,Alluvial & Red/Yellow,150,75,130,7.3,1850,73,27
+Paschim Bardhaman,Alluvial & Red/Yellow,170,85,110,7,1600,78,24
+Paschim Bardhaman,Alluvial & Red/Yellow,180,60,150,7.4,1800,77,22
+Paschim Bardhaman,Alluvial & Red/Yellow,120,70,140,7.1,1750,74,28
+Paschim Bardhaman,Alluvial & Red/Yellow,140,95,100,6.6,1750,76,23
+Paschim Bardhaman,Alluvial & Red/Yellow,160,60,160,7.5,1700,79,26
+Paschim Bardhaman,Alluvial & Red/Yellow,110,80,120,7.2,1850,71,25
+Paschim Bardhaman,Alluvial & Red/Yellow,130,50,170,6.6,1800,73,22
+Paschim Bardhaman,Alluvial & Red/Yellow,150,75,130,7.1,1900,78,27
+Paschim Bardhaman,Alluvial & Red/Yellow,170,85,110,7.3,1900,79,22
+Paschim Bardhaman,Alluvial & Red/Yellow,180,60,150,6.8,1850,72,27
+Paschim Bardhaman,Alluvial & Red/Yellow,120,70,140,7.4,2000,77,20
+Paschim Bardhaman,Alluvial & Red/Yellow,140,95,100,7,1750,76,23
+Paschim Bardhaman,Alluvial & Red/Yellow,160,60,160,7.2,1900,71,26
+Paschim Bardhaman,Alluvial & Red/Yellow,110,80,120,7.5,1650,76,26
+Paschim Bardhaman,Alluvial & Red/Yellow,130,50,170,7,1750,71,23
+Paschim Bardhaman,Alluvial & Red/Yellow,150,75,130,6.8,1800,77,27
+Paschim Bardhaman,Alluvial & Red/Yellow,170,85,110,7.3,1900,79,22
+Paschim Bardhaman,Alluvial & Red/Yellow,180,60,150,7.4,1800,77,22
+Paschim Bardhaman,Alluvial & Red/Yellow,120,70,140,6.6,1750,79,25
+Paschim Bardhaman,Alluvial & Red/Yellow,140,95,100,7,2000,72,20
+Paschim Bardhaman,Alluvial & Red/Yellow,160,60,160,7.2,1900,74,28
+Paschim Bardhaman,Alluvial & Red/Yellow,110,80,120,7.1,1750,79,21
+Paschim Bardhaman,Alluvial & Red/Yellow,130,50,170,6.8,1700,71,29
+Paschim Bardhaman,Alluvial & Red/Yellow,150,75,130,7.3,1850,73,27
+Paschim Bardhaman,Alluvial & Red/Yellow,170,85,110,7,1600,78,24
+Paschim Bardhaman,Alluvial & Red/Yellow,180,60,150,7.4,1800,77,22
+Paschim Bardhaman,Alluvial & Red/Yellow,120,70,140,7.1,1750,74,28
+Paschim Bardhaman,Alluvial & Red/Yellow,140,95,100,6.6,1750,76,23
+Paschim Bardhaman,Alluvial & Red/Yellow,160,60,160,7.5,1700,79,26
+North 24 Parganas,Alluvial,150,75,150,7,1750,75,25
+North 24 Parganas,Alluvial,120,60,180,7.2,1800,78,22
+North 24 Parganas,Alluvial,180,80,120,6.8,1600,72,28
+North 24 Parganas,Alluvial,130,70,150,7.4,1900,80,23
+North 24 Parganas,Alluvial,110,55,130,7.1,1700,76,26
+North 24 Parganas,Alluvial,170,85,110,7.3,2000,77,21
+North 24 Parganas,Alluvial,140,65,140,7,1750,73,27
+North 24 Parganas,Alluvial,190,95,100,6.6,1500,79,24
+North 24 Parganas,Alluvial,120,50,170,7.5,1850,71,29
+North 24 Parganas,Alluvial,160,75,130,7.2,1650,74,25
+North 24 Parganas,Alluvial,140,60,160,6.8,2000,76,22
+North 24 Parganas,Alluvial,110,80,120,7.4,1750,78,20
+North 24 Parganas,Alluvial,180,65,140,7.1,1900,70,28
+North 24 Parganas,Alluvial,130,85,110,7.3,1800,72,23
+North 24 Parganas,Alluvial,150,70,130,7,1600,79,26
+North 24 Parganas,Alluvial,170,95,100,7.5,1700,77,21
+North 24 Parganas,Alluvial,120,60,150,7.2,1850,75,24
+North 24 Parganas,Alluvial,140,80,120,6.6,1900,71,29
+North 24 Parganas,Alluvial,160,50,170,7.1,1750,73,27
+North 24 Parganas,Alluvial,190,75,130,7.4,2000,74,25
+North 24 Parganas,Alluvial,110,65,140,7,1600,79,22
+North 24 Parganas,Alluvial,130,95,100,7.3,1800,77,20
+North 24 Parganas,Alluvial,150,60,150,7.2,1750,70,28
+North 24 Parganas,Alluvial,170,80,120,6.8,1650,72,23
+North 24 Parganas,Alluvial,180,50,170,7.1,2000,76,26
+North 24 Parganas,Alluvial,120,75,130,7.4,1900,78,21
+North 24 Parganas,Alluvial,140,95,100,7,1850,73,24
+North 24 Parganas,Alluvial,160,70,140,7.5,1600,79,29
+North 24 Parganas,Alluvial,110,60,160,7.2,1800,71,25
+North 24 Parganas,Alluvial,130,80,120,6.6,1750,74,22
+North 24 Parganas,Alluvial,150,50,150,7.3,1900,76,27
+North 24 Parganas,Alluvial,170,75,130,7.1,2000,72,20
+North 24 Parganas,Alluvial,180,65,140,7.4,1700,77,23
+North 24 Parganas,Alluvial,120,85,110,7,1850,79,28
+North 24 Parganas,Alluvial,140,70,130,7.5,1600,78,26
+North 24 Parganas,Alluvial,160,95,100,7.2,1750,73,21
+North 24 Parganas,Alluvial,110,60,160,6.8,1800,76,22
+North 24 Parganas,Alluvial,130,80,120,7.3,1900,70,27
+North 24 Parganas,Alluvial,150,50,170,7.1,1650,71,24
+North 24 Parganas,Alluvial,170,75,130,7.4,1750,79,25
+North 24 Parganas,Alluvial,180,85,110,7,1850,77,20
+North 24 Parganas,Alluvial,120,70,130,6.6,2000,72,28
+North 24 Parganas,Alluvial,140,95,100,7.5,1600,74,23
+North 24 Parganas,Alluvial,160,60,150,7.2,1900,76,26
+North 24 Parganas,Alluvial,110,80,120,7.1,1750,79,21
+North 24 Parganas,Alluvial,130,50,170,6.8,1700,71,29
+North 24 Parganas,Alluvial,150,75,130,7.3,1850,73,27
+North 24 Parganas,Alluvial,170,85,110,7,1600,78,24
+North 24 Parganas,Alluvial,180,60,150,7.4,1800,77,22
+North 24 Parganas,Alluvial,120,70,140,6.6,1750,79,25
+North 24 Parganas,Alluvial,140,95,100,7,2000,72,20
+North 24 Parganas,Alluvial,160,60,160,7.2,1900,74,28
+North 24 Parganas,Alluvial,110,80,120,7.5,1650,76,26
+North 24 Parganas,Alluvial,130,50,170,7,1750,71,23
+North 24 Parganas,Alluvial,150,75,130,6.8,1800,77,27
+North 24 Parganas,Alluvial,170,85,110,7.3,1900,79,22
+North 24 Parganas,Alluvial,180,60,150,6.8,1850,72,27
+North 24 Parganas,Alluvial,120,70,140,7.1,1750,77,23
+North 24 Parganas,Alluvial,140,95,100,6.6,1750,72,26
+North 24 Parganas,Alluvial,160,60,160,7.2,2000,74,23
+North 24 Parganas,Alluvial,110,80,120,7.5,1700,78,28
+North 24 Parganas,Alluvial,130,50,170,7,1750,79,25
+North 24 Parganas,Alluvial,150,75,130,7.3,1600,71,22
+North 24 Parganas,Alluvial,170,85,110,6.8,1850,76,27
+North 24 Parganas,Alluvial,180,60,150,7.4,1800,77,22
+North 24 Parganas,Alluvial,120,70,140,6.6,1750,79,25
+North 24 Parganas,Alluvial,140,95,100,7,2000,72,20
+North 24 Parganas,Alluvial,160,60,160,7.2,1900,74,28
+North 24 Parganas,Alluvial,110,80,120,7.1,1750,79,21
+North 24 Parganas,Alluvial,130,50,170,6.8,1700,71,29
+North 24 Parganas,Alluvial,150,75,130,7.3,1850,73,27
+North 24 Parganas,Alluvial,170,85,110,7,1600,78,24
+North 24 Parganas,Alluvial,180,60,150,7.4,1800,77,22
+North 24 Parganas,Alluvial,120,70,140,7.1,1750,74,28
+North 24 Parganas,Alluvial,140,95,100,6.6,1750,76,23
+North 24 Parganas,Alluvial,160,60,160,7.5,1700,79,26
+North 24 Parganas,Alluvial,110,80,120,7.2,1850,71,25
+North 24 Parganas,Alluvial,130,50,170,6.6,1800,73,22
+North 24 Parganas,Alluvial,150,75,130,7.1,1900,78,27
+North 24 Parganas,Alluvial,170,85,110,7.3,1900,79,22
+North 24 Parganas,Alluvial,180,60,150,6.8,1850,72,27
+North 24 Parganas,Alluvial,120,70,140,7.4,2000,77,20
+North 24 Parganas,Alluvial,140,95,100,7,1750,76,23
+North 24 Parganas,Alluvial,160,60,160,7.2,1900,71,26
+North 24 Parganas,Alluvial,110,80,120,7.5,1650,76,26
+North 24 Parganas,Alluvial,130,50,170,7,1750,71,23
+North 24 Parganas,Alluvial,150,75,130,6.8,1800,77,27
+North 24 Parganas,Alluvial,170,85,110,7.3,1900,79,22
+North 24 Parganas,Alluvial,180,60,150,6.8,1850,72,27
+North 24 Parganas,Alluvial,120,70,140,7.1,1750,77,23
+North 24 Parganas,Alluvial,140,95,100,6.6,1750,72,26
+North 24 Parganas,Alluvial,160,60,160,7.2,2000,74,23
+North 24 Parganas,Alluvial,110,80,120,7.5,1700,78,28
+North 24 Parganas,Alluvial,130,50,170,7,1750,79,25
+North 24 Parganas,Alluvial,150,75,130,7.3,1600,71,22
+North 24 Parganas,Alluvial,170,85,110,6.8,1850,76,27
+North 24 Parganas,Alluvial,180,60,150,7.4,1800,77,22
+North 24 Parganas,Alluvial,120,70,140,6.6,1750,79,25
+North 24 Parganas,Alluvial,140,95,100,7,2000,72,20
+North 24 Parganas,Alluvial,160,60,160,7.2,1900,74,28
+Nadia,Alluvial,150,75,150,7,1750,75,25
+Nadia,Red/Yellow,120,60,180,7.2,1800,78,22
+Nadia,Alluvial,180,80,120,6.8,1600,72,28
+Nadia,Red/Yellow,130,70,150,7.4,1900,80,23
+Nadia,Alluvial,110,55,130,7.1,1700,76,26
+Nadia,Red/Yellow,170,85,110,7.3,2000,77,21
+Nadia,Alluvial,140,65,140,7,1750,73,27
+Nadia,Red/Yellow,190,95,100,6.6,1500,79,24
+Nadia,Alluvial,120,50,170,7.5,1850,71,29
+Nadia,Red/Yellow,160,75,130,7.2,1650,74,25
+Nadia,Alluvial,140,60,160,6.8,2000,76,22
+Nadia,Red/Yellow,110,80,120,7.4,1750,78,20
+Nadia,Alluvial,180,65,140,7.1,1900,70,28
+Nadia,Red/Yellow,130,85,110,7.3,1800,72,23
+Nadia,Alluvial,150,70,130,7,1600,79,26
+Nadia,Red/Yellow,170,95,100,7.5,1700,77,21
+Nadia,Alluvial,120,60,150,7.2,1850,75,24
+Nadia,Red/Yellow,140,80,120,6.6,1900,71,29
+Nadia,Alluvial,160,50,170,7.1,1750,73,27
+Nadia,Red/Yellow,190,75,130,7.4,2000,74,25
+Nadia,Alluvial,110,65,140,7,1600,79,22
+Nadia,Red/Yellow,130,95,100,7.3,1800,77,20
+Nadia,Alluvial,150,60,150,7.2,1750,70,28
+Nadia,Red/Yellow,170,80,120,6.8,1650,72,23
+Nadia,Alluvial,180,50,170,7.1,2000,76,26
+Nadia,Red/Yellow,120,75,130,7.4,1900,78,21
+Nadia,Alluvial,140,95,100,7,1850,73,24
+Nadia,Red/Yellow,160,70,140,7.5,1600,79,29
+Nadia,Alluvial,110,60,160,7.2,1800,71,25
+Nadia,Red/Yellow,130,80,120,6.6,1750,74,22
+Nadia,Alluvial,150,50,150,7.3,1900,76,27
+Nadia,Red/Yellow,170,75,130,7.1,2000,72,20
+Nadia,Alluvial,180,65,140,7.4,1700,77,23
+Nadia,Red/Yellow,120,85,110,7,1850,79,28
+Nadia,Alluvial,140,70,130,7.5,1600,78,26
+Nadia,Red/Yellow,160,95,100,7.2,1750,73,21
+Nadia,Alluvial,110,60,160,6.8,1800,76,22
+Nadia,Red/Yellow,130,80,120,7.3,1900,70,27
+Nadia,Alluvial,150,50,170,7.1,1650,71,24
+Nadia,Red/Yellow,170,75,130,7.4,1750,79,25
+Nadia,Alluvial,180,85,110,7,1850,77,20
+Nadia,Red/Yellow,120,70,130,6.6,2000,72,28
+Nadia,Alluvial,140,95,100,7.5,1600,74,23
+Nadia,Red/Yellow,160,60,150,7.2,1900,76,26
+Nadia,Alluvial,110,80,120,7.1,1750,79,21
+Nadia,Red/Yellow,130,50,170,6.8,1700,71,29
+Nadia,Alluvial,150,75,130,7.3,1850,73,27
+Nadia,Red/Yellow,170,85,110,7,1600,78,24
+Nadia,Alluvial,180,60,150,7.4,1800,77,22
+Nadia,Red/Yellow,120,70,140,6.6,1750,79,25
+Nadia,Alluvial,140,95,100,7,2000,72,20
+Nadia,Red/Yellow,160,60,160,7.2,1900,74,28
+Nadia,Alluvial,110,80,120,7.5,1650,76,26
+Nadia,Red/Yellow,130,50,170,7,1750,71,23
+Nadia,Alluvial,150,75,130,6.8,1800,77,27
+Nadia,Red/Yellow,170,85,110,7.3,1900,79,22
+Nadia,Alluvial,180,60,150,6.8,1850,72,27
+Nadia,Red/Yellow,120,70,140,7.1,1750,77,23
+Nadia,Alluvial,140,95,100,6.6,1750,72,26
+Nadia,Red/Yellow,160,60,160,7.2,2000,74,23
+Nadia,Alluvial,110,80,120,7.5,1700,78,28
+Nadia,Red/Yellow,130,50,170,7,1750,79,25
+Nadia,Alluvial,150,75,130,7.3,1600,71,22
+Nadia,Red/Yellow,170,85,110,6.8,1850,76,27
+Nadia,Alluvial,180,60,150,7.4,1900,72,20
+Nadia,Red/Yellow,120,70,140,7.1,1750,77,23
+Nadia,Alluvial,140,95,100,6.6,2000,79,26
+Nadia,Red/Yellow,160,60,160,7.2,1900,71,26
+Nadia,Alluvial,110,80,120,6.8,1750,73,21
+Nadia,Red/Yellow,130,50,170,7.5,1800,78,27
+Nadia,Alluvial,150,75,130,7.3,1850,76,22
+Nadia,Red/Yellow,170,85,110,7,1600,79,25
+Nadia,Alluvial,180,60,150,6.6,1900,72,23
+Nadia,Red/Yellow,120,70,140,7.4,1600,79,28
+Nadia,Alluvial,140,95,100,7,2000,77,21
+Nadia,Red/Yellow,160,60,160,7.5,1700,74,28
+Nadia,Alluvial,110,80,120,7.2,1850,71,25
+Nadia,Red/Yellow,130,50,170,6.6,1800,73,22
+Nadia,Alluvial,150,75,130,7.1,1900,78,27
+Nadia,Red/Yellow,170,85,110,7.3,1900,79,22
+Nadia,Alluvial,180,60,150,6.8,1850,72,27
+Nadia,Red/Yellow,120,70,140,7.1,1750,77,23
+Nadia,Alluvial,140,95,100,6.6,1750,72,26
+Nadia,Red/Yellow,160,60,160,7.2,2000,74,23
+Nadia,Alluvial,110,80,120,7.5,1700,78,28
+Nadia,Red/Yellow,130,50,170,7,1750,79,25
+Nadia,Alluvial,150,75,130,7.3,1600,71,22
+Nadia,Red/Yellow,170,85,110,6.8,1850,76,27
+Nadia,Alluvial,180,60,150,7.4,1800,77,22
+Nadia,Red/Yellow,120,70,140,6.6,1750,79,25
+Nadia,Alluvial,140,95,100,7,2000,72,20
+Nadia,Red/Yellow,160,60,160,7.2,1900,74,28
+Nadia,Alluvial,110,80,120,7.5,1650,76,26
+Nadia,Red/Yellow,130,50,170,7,1750,71,23
+Nadia,Alluvial,150,75,130,6.8,1800,77,27
+Nadia,Red/Yellow,170,85,110,7.3,1900,79,22
+Nadia,Alluvial,180,60,150,6.8,1850,72,27
+Nadia,Red/Yellow,120,70,140,7.1,1750,77,23
+Nadia,Alluvial,140,95,100,6.6,1750,72,26
+Nadia,Red/Yellow,160,60,160,7.2,2000,74,23
+Murshidabad,Alluvial,150,75,150,7,1750,75,25
+Murshidabad,Alluvial,120,60,180,7.2,1800,78,30
+Murshidabad,Alluvial,180,80,120,6.8,1600,72,35
+Murshidabad,Alluvial,130,70,150,7.4,1900,80,30
+Murshidabad,Alluvial,110,55,130,7.1,1700,76,32
+Murshidabad,Alluvial,170,85,110,7.3,2000,77,28
+Murshidabad,Alluvial,140,65,140,7,1750,73,33
+Murshidabad,Alluvial,190,95,100,6.6,1500,79,29
+Murshidabad,Alluvial,120,50,170,7.5,1850,71,25
+Murshidabad,Alluvial,160,75,130,7.2,1650,74,30
+Murshidabad,Alluvial,140,60,160,6.8,2000,76,35
+Murshidabad,Alluvial,110,80,120,7.4,1750,78,25
+Murshidabad,Alluvial,180,65,140,7.1,1900,70,28
+Murshidabad,Alluvial,130,85,110,7.3,1800,72,33
+Murshidabad,Alluvial,150,70,130,7,1600,79,26
+Murshidabad,Alluvial,170,95,100,7.5,1700,77,31
+Murshidabad,Alluvial,120,60,150,7.2,1850,75,34
+Murshidabad,Alluvial,140,80,120,6.6,1900,71,29
+Murshidabad,Alluvial,160,50,170,7.1,1750,73,27
+Murshidabad,Alluvial,190,75,130,7.4,2000,74,35
+Murshidabad,Alluvial,110,65,140,7,1600,79,32
+Murshidabad,Alluvial,130,95,100,7.3,1800,77,30
+Murshidabad,Alluvial,150,60,150,7.2,1750,70,28
+Murshidabad,Alluvial,170,80,120,6.8,1650,72,33
+Murshidabad,Alluvial,180,50,170,7.1,2000,76,26
+Murshidabad,Alluvial,120,75,130,7.4,1900,78,31
+Murshidabad,Alluvial,140,95,100,7,1850,73,34
+Murshidabad,Alluvial,160,70,140,7.5,1600,79,29
+Murshidabad,Alluvial,110,60,160,7.2,1800,71,35
+Murshidabad,Alluvial,130,80,120,6.6,1750,74,32
+Murshidabad,Alluvial,150,50,150,7.3,1900,76,27
+Murshidabad,Alluvial,170,75,130,7.1,2000,72,30
+Murshidabad,Alluvial,180,65,140,7.4,1700,77,33
+Murshidabad,Alluvial,120,85,110,7,1850,79,28
+Murshidabad,Alluvial,140,70,130,7.5,1600,78,26
+Murshidabad,Alluvial,160,95,100,7.2,1750,73,21
+Murshidabad,Alluvial,110,60,160,6.8,1800,76,22
+Murshidabad,Alluvial,130,80,120,7.3,1900,70,27
+Murshidabad,Alluvial,150,50,170,7.1,1650,71,24
+Murshidabad,Alluvial,170,75,130,7.4,1750,79,25
+Murshidabad,Alluvial,180,85,110,7,1850,77,20
+Murshidabad,Alluvial,120,70,130,6.6,2000,72,28
+Murshidabad,Alluvial,140,95,100,7.5,1600,74,23
+Murshidabad,Alluvial,160,60,150,7.2,1900,76,26
+Murshidabad,Alluvial,110,80,120,7.1,1750,79,21
+Murshidabad,Alluvial,130,50,170,6.8,1700,71,29
+Murshidabad,Alluvial,150,75,130,7.3,1850,73,27
+Murshidabad,Alluvial,170,85,110,7,1600,78,24
+Murshidabad,Alluvial,180,60,150,7.4,1800,77,22
+Murshidabad,Alluvial,120,70,140,6.6,1750,79,25
+Murshidabad,Alluvial,140,95,100,7,2000,72,20
+Murshidabad,Alluvial,160,60,160,7.2,1900,74,28
+Murshidabad,Alluvial,110,80,120,7.5,1650,76,26
+Murshidabad,Alluvial,130,50,170,7,1750,71,23
+Murshidabad,Alluvial,150,75,130,6.8,1800,77,27
+Murshidabad,Alluvial,170,85,110,7.3,1900,79,22
+Murshidabad,Alluvial,180,60,150,6.8,1850,72,27
+Murshidabad,Alluvial,120,70,140,7.1,1750,77,23
+Murshidabad,Alluvial,140,95,100,6.6,1750,72,26
+Murshidabad,Alluvial,160,60,160,7.2,2000,74,23
+Murshidabad,Alluvial,110,80,120,7.5,1700,78,28
+Murshidabad,Alluvial,130,50,170,7,1750,79,25
+Murshidabad,Alluvial,150,75,130,7.3,1600,71,22
+Murshidabad,Alluvial,170,85,110,6.8,1850,76,27
+Murshidabad,Alluvial,180,60,150,7.4,1900,72,20
+Murshidabad,Alluvial,120,70,140,7.1,1750,77,23
+Murshidabad,Alluvial,140,95,100,6.6,2000,79,26
+Murshidabad,Alluvial,160,60,160,7.2,1900,71,26
+Murshidabad,Alluvial,110,80,120,6.8,1750,73,21
+Murshidabad,Alluvial,130,50,170,7.5,1800,78,27
+Murshidabad,Alluvial,150,75,130,7.3,1850,76,22
+Murshidabad,Alluvial,170,85,110,7,1600,79,25
+Murshidabad,Alluvial,180,60,150,6.6,1900,72,23
+Murshidabad,Alluvial,120,70,140,7.4,1600,79,28
+Murshidabad,Alluvial,140,95,100,7,2000,77,21
+Murshidabad,Alluvial,160,60,160,7.5,1700,79,26
+Murshidabad,Alluvial,110,80,120,7.2,1850,71,25
+Murshidabad,Alluvial,130,50,170,6.6,1800,73,22
+Murshidabad,Alluvial,150,75,130,7.1,1900,78,27
+Murshidabad,Alluvial,170,85,110,7.3,1750,79,20
+Murshidabad,Alluvial,180,60,150,7,1600,72,26
+Murshidabad,Alluvial,120,70,140,6.8,2000,76,23
+Murshidabad,Alluvial,140,95,100,7.4,1850,77,21
+Murshidabad,Alluvial,160,60,160,7.5,1750,74,28
+Murshidabad,Alluvial,110,80,120,7.2,1700,71,25
+Murshidabad,Alluvial,130,50,170,6.6,1800,79,22
+Murshidabad,Alluvial,150,75,130,7.3,1850,76,27
+Murshidabad,Alluvial,170,85,110,7,1600,79,22
+Murshidabad,Alluvial,180,60,150,6.8,1850,72,27
+Murshidabad,Alluvial,120,70,140,7.4,2000,77,20
+Murshidabad,Alluvial,140,95,100,7,1750,76,23
+Murshidabad,Alluvial,160,60,160,7.5,1700,79,28
+Murshidabad,Alluvial,110,80,120,7.2,1850,71,25
+Murshidabad,Alluvial,130,50,170,6.6,1800,73,22
+Murshidabad,Alluvial,150,75,130,7.1,1900,78,27
+Murshidabad,Alluvial,170,85,110,7.3,1900,79,22
+Murshidabad,Alluvial,180,60,150,6.8,1850,72,27
+Murshidabad,Alluvial,120,70,140,7.1,1750,77,23
+Murshidabad,Alluvial,140,95,100,6.6,1750,72,26
+Murshidabad,Alluvial,160,60,160,7.2,2000,74,23
+Alipurduar,Alluvial & Red/Yellow,80,40,40,4.5,2500,75,15
+Alipurduar,Alluvial & Red/Yellow,90,45,50,5,2550,76,16
+Alipurduar,Alluvial & Red/Yellow,100,50,60,5.5,2600,77,17
+Alipurduar,Alluvial & Red/Yellow,110,55,70,6,2650,78,18
+Alipurduar,Alluvial & Red/Yellow,120,60,80,6.5,2700,79,19
+Alipurduar,Alluvial & Red/Yellow,130,65,60,4.8,2750,80,20
+Alipurduar,Alluvial & Red/Yellow,140,70,70,5.3,2800,81,21
+Alipurduar,Alluvial & Red/Yellow,150,75,80,5.8,2850,82,22
+Alipurduar,Alluvial & Red/Yellow,85,80,90,6.3,2900,83,23
+Alipurduar,Alluvial & Red/Yellow,95,85,100,4.7,2950,84,24
+Alipurduar,Alluvial & Red/Yellow,105,90,110,5.2,3000,85,25
+Alipurduar,Alluvial & Red/Yellow,115,95,70,5.7,2500,86,15
+Alipurduar,Alluvial & Red/Yellow,125,100,80,6.2,2550,87,16
+Alipurduar,Alluvial & Red/Yellow,135,105,90,4.6,2600,88,17
+Alipurduar,Alluvial & Red/Yellow,145,110,100,5.1,2650,89,18
+Alipurduar,Alluvial & Red/Yellow,80,115,110,5.6,2700,90,19
+Alipurduar,Alluvial & Red/Yellow,90,120,70,6.1,2750,91,20
+Alipurduar,Alluvial & Red/Yellow,100,125,80,4.9,2800,92,21
+Alipurduar,Alluvial & Red/Yellow,110,130,90,5.4,2850,93,22
+Alipurduar,Alluvial & Red/Yellow,120,135,100,5.9,2900,94,23
+Alipurduar,Alluvial & Red/Yellow,130,140,110,4.8,2950,95,24
+Alipurduar,Alluvial & Red/Yellow,140,145,70,5.3,3000,96,25
+Alipurduar,Alluvial & Red/Yellow,150,80,80,5.8,2500,97,15
+Alipurduar,Alluvial & Red/Yellow,85,90,90,6.3,2550,98,16
+Alipurduar,Alluvial & Red/Yellow,95,100,100,4.7,2600,99,17
+Alipurduar,Alluvial & Red/Yellow,105,110,110,5.2,2650,75,18
+Alipurduar,Alluvial & Red/Yellow,115,70,70,5.7,2700,76,19
+Alipurduar,Alluvial & Red/Yellow,125,80,80,6.2,2750,77,20
+Alipurduar,Alluvial & Red/Yellow,135,90,90,4.6,2800,78,21
+Alipurduar,Alluvial & Red/Yellow,145,100,100,5.1,2850,79,22
+Alipurduar,Alluvial & Red/Yellow,80,110,110,5.6,2900,80,23
+Alipurduar,Alluvial & Red/Yellow,90,120,70,6.1,2950,81,24
+Alipurduar,Alluvial & Red/Yellow,100,130,80,4.9,3000,82,25
+Alipurduar,Alluvial & Red/Yellow,110,140,90,5.4,2500,83,15
+Alipurduar,Alluvial & Red/Yellow,120,145,100,5.9,2550,84,16
+Alipurduar,Alluvial & Red/Yellow,130,70,110,4.8,2600,85,17
+Alipurduar,Alluvial & Red/Yellow,140,80,70,5.3,2650,86,18
+Alipurduar,Alluvial & Red/Yellow,150,90,80,5.8,2700,87,19
+Alipurduar,Alluvial & Red/Yellow,85,100,90,6.3,2750,88,20
+Alipurduar,Alluvial & Red/Yellow,95,110,100,4.7,2800,89,21
+Alipurduar,Alluvial & Red/Yellow,105,70,110,5.2,2850,90,22
+Alipurduar,Alluvial & Red/Yellow,115,80,70,5.7,2900,91,23
+Alipurduar,Alluvial & Red/Yellow,125,90,80,6.2,2950,92,24
+Alipurduar,Alluvial & Red/Yellow,135,100,90,4.6,3000,93,25
+Alipurduar,Alluvial & Red/Yellow,145,110,100,5.1,2500,94,15
+Alipurduar,Alluvial & Red/Yellow,80,120,110,5.6,2550,95,16
+Alipurduar,Alluvial & Red/Yellow,90,130,70,6.1,2600,96,17
+Alipurduar,Alluvial & Red/Yellow,100,140,80,4.9,2650,97,18
+Alipurduar,Alluvial & Red/Yellow,110,145,90,5.4,2700,98,19
+Alipurduar,Alluvial & Red/Yellow,120,70,100,5.9,2750,99,20
+Alipurduar,Alluvial & Red/Yellow,130,80,110,4.8,2800,75,21
+Alipurduar,Alluvial & Red/Yellow,140,90,70,5.3,2850,76,22
+Alipurduar,Alluvial & Red/Yellow,150,100,80,5.8,2900,77,23
+Alipurduar,Alluvial & Red/Yellow,85,110,90,6.3,2950,78,24
+Alipurduar,Alluvial & Red/Yellow,95,70,100,4.7,3000,79,25
+Alipurduar,Alluvial & Red/Yellow,105,80,110,5.2,2500,80,15
+Alipurduar,Alluvial & Red/Yellow,115,90,70,5.7,2550,81,16
+Alipurduar,Alluvial & Red/Yellow,125,100,80,6.2,2600,82,17
+Alipurduar,Alluvial & Red/Yellow,135,110,90,4.6,2650,83,18
+Alipurduar,Alluvial & Red/Yellow,145,70,100,5.1,2700,84,19
+Alipurduar,Alluvial & Red/Yellow,80,80,110,5.6,2750,85,20
+Alipurduar,Alluvial & Red/Yellow,90,90,70,6.1,2800,86,21
+Alipurduar,Alluvial & Red/Yellow,100,100,80,4.9,2850,87,22
+Alipurduar,Alluvial & Red/Yellow,110,110,90,5.4,2900,88,23
+Alipurduar,Alluvial & Red/Yellow,120,70,100,5.9,2950,89,24
+Alipurduar,Alluvial & Red/Yellow,130,80,110,4.8,3000,90,25
+Alipurduar,Alluvial & Red/Yellow,140,90,70,5.3,2500,91,15
+Alipurduar,Alluvial & Red/Yellow,150,100,80,5.8,2550,92,16
+Alipurduar,Alluvial & Red/Yellow,85,110,90,6.3,2600,93,17
+Alipurduar,Alluvial & Red/Yellow,95,70,100,4.7,2650,94,18
+Alipurduar,Alluvial & Red/Yellow,105,80,110,5.2,2700,95,19
+Alipurduar,Alluvial & Red/Yellow,115,90,70,5.7,2750,96,20
+Alipurduar,Alluvial & Red/Yellow,125,100,80,6.2,2800,97,21
+Alipurduar,Alluvial & Red/Yellow,135,110,90,4.6,2850,98,22
+Alipurduar,Alluvial & Red/Yellow,145,70,100,5.1,2900,99,23
+Alipurduar,Alluvial & Red/Yellow,80,80,110,5.6,2950,75,24
+Alipurduar,Alluvial & Red/Yellow,90,90,70,6.1,3000,76,25
+Alipurduar,Alluvial & Red/Yellow,100,100,80,4.9,2500,77,15
+Alipurduar,Alluvial & Red/Yellow,110,110,90,5.4,2550,78,16
+Alipurduar,Alluvial & Red/Yellow,120,70,100,5.9,2600,79,17
+Alipurduar,Alluvial & Red/Yellow,130,80,110,4.8,2650,80,18
+Alipurduar,Alluvial & Red/Yellow,140,90,70,5.3,2700,81,19
+Alipurduar,Alluvial & Red/Yellow,150,100,80,5.8,2750,82,20
+Alipurduar,Alluvial & Red/Yellow,85,110,90,6.3,2800,83,21
+Alipurduar,Alluvial & Red/Yellow,95,70,100,4.7,2850,84,22
+Alipurduar,Alluvial & Red/Yellow,105,80,110,5.2,2900,85,23
+Alipurduar,Alluvial & Red/Yellow,115,90,70,5.7,2950,86,24
+Alipurduar,Alluvial & Red/Yellow,125,100,80,6.2,3000,87,25
+Bankura,Red/Yellow & Lateritic,50,25,50,5,1200,60,20
+Bankura,Red/Yellow & Lateritic,60,30,60,5.2,1250,62,21
+Bankura,Red/Yellow & Lateritic,70,35,70,5.4,1300,64,22
+Bankura,Red/Yellow & Lateritic,80,40,80,5.6,1350,66,23
+Bankura,Red/Yellow & Lateritic,90,45,90,5.8,1400,68,24
+Bankura,Red/Yellow & Lateritic,100,50,100,6,1450,70,25
+Bankura,Red/Yellow & Lateritic,55,25,55,5.1,1210,61,20
+Bankura,Red/Yellow & Lateritic,65,30,65,5.3,1260,63,21
+Bankura,Red/Yellow & Lateritic,75,35,75,5.5,1310,65,22
+Bankura,Red/Yellow & Lateritic,85,40,85,5.7,1360,67,23
+Bankura,Red/Yellow & Lateritic,95,45,95,5.9,1410,69,24
+Bankura,Red/Yellow & Lateritic,50,25,50,5,1200,60,20
+Bankura,Red/Yellow & Lateritic,60,30,60,5.2,1250,62,21
+Bankura,Red/Yellow & Lateritic,70,35,70,5.4,1300,64,22
+Bankura,Red/Yellow & Lateritic,80,40,80,5.6,1350,66,23
+Bankura,Red/Yellow & Lateritic,90,45,90,5.8,1400,68,24
+Bankura,Red/Yellow & Lateritic,100,50,100,6,1450,70,25
+Bankura,Red/Yellow & Lateritic,55,25,55,5.1,1210,61,20
+Bankura,Red/Yellow & Lateritic,65,30,65,5.3,1260,63,21
+Bankura,Red/Yellow & Lateritic,75,35,75,5.5,1310,65,22
+Bankura,Red/Yellow & Lateritic,85,40,85,5.7,1360,67,23
+Bankura,Red/Yellow & Lateritic,95,45,95,5.9,1410,69,24
+Bankura,Red/Yellow & Lateritic,50,25,50,5,1200,60,20
+Bankura,Red/Yellow & Lateritic,60,30,60,5.2,1250,62,21
+Bankura,Red/Yellow & Lateritic,70,35,70,5.4,1300,64,22
+Bankura,Red/Yellow & Lateritic,80,40,80,5.6,1350,66,23
+Bankura,Red/Yellow & Lateritic,90,45,90,5.8,1400,68,24
+Bankura,Red/Yellow & Lateritic,100,50,100,6,1450,70,25
+Bankura,Red/Yellow & Lateritic,55,25,55,5.1,1210,61,20
+Bankura,Red/Yellow & Lateritic,65,30,65,5.3,1260,63,21
+Bankura,Red/Yellow & Lateritic,75,35,75,5.5,1310,65,22
+Bankura,Red/Yellow & Lateritic,85,40,85,5.7,1360,67,23
+Bankura,Red/Yellow & Lateritic,95,45,95,5.9,1410,69,24
+Bankura,Red/Yellow & Lateritic,50,25,50,5,1200,60,20
+Bankura,Red/Yellow & Lateritic,60,30,60,5.2,1250,62,21
+Bankura,Red/Yellow & Lateritic,70,35,70,5.4,1300,64,22
+Bankura,Red/Yellow & Lateritic,80,40,80,5.6,1350,66,23
+Bankura,Red/Yellow & Lateritic,90,45,90,5.8,1400,68,24
+Bankura,Red/Yellow & Lateritic,100,50,100,6,1450,70,25
+Bankura,Red/Yellow & Lateritic,55,25,55,5.1,1210,61,20
+Bankura,Red/Yellow & Lateritic,65,30,65,5.3,1260,63,21
+Bankura,Red/Yellow & Lateritic,75,35,75,5.5,1310,65,22
+Bankura,Red/Yellow & Lateritic,85,40,85,5.7,1360,67,23
+Bankura,Red/Yellow & Lateritic,95,45,95,5.9,1410,69,24
+Bankura,Red/Yellow & Lateritic,50,25,50,5,1200,60,20
+Bankura,Red/Yellow & Lateritic,60,30,60,5.2,1250,62,21
+Bankura,Red/Yellow & Lateritic,70,35,70,5.4,1300,64,22
+Bankura,Red/Yellow & Lateritic,80,40,80,5.6,1350,66,23
+Bankura,Red/Yellow & Lateritic,90,45,90,5.8,1400,68,24
+Bankura,Red/Yellow & Lateritic,100,50,100,6,1450,70,25
+Bankura,Red/Yellow & Lateritic,55,25,55,5.1,1210,61,20
+Bankura,Red/Yellow & Lateritic,65,30,65,5.3,1260,63,21
+Bankura,Red/Yellow & Lateritic,75,35,75,5.5,1310,65,22
+Bankura,Red/Yellow & Lateritic,85,40,85,5.7,1360,67,23
+Bankura,Red/Yellow & Lateritic,95,45,95,5.9,1410,69,24
+Birbhum,Alluvial & Red/Yellow,100,40,40,6,1500,70,20
+Birbhum,Alluvial & Red/Yellow,110,45,45,6.2,1550,72,21
+Birbhum,Alluvial & Red/Yellow,120,50,50,6.4,1600,74,22
+Birbhum,Alluvial & Red/Yellow,130,55,55,6.6,1650,76,23
+Birbhum,Alluvial & Red/Yellow,140,60,60,6.8,1700,78,24
+Birbhum,Alluvial & Red/Yellow,150,65,65,7,1750,80,25
+Birbhum,Alluvial & Red/Yellow,160,70,70,7.2,1800,82,26
+Birbhum,Alluvial & Red/Yellow,170,75,75,7.4,1850,84,27
+Birbhum,Alluvial & Red/Yellow,180,80,80,7.5,1900,86,28
+Birbhum,Alluvial & Red/Yellow,190,40,40,6.1,1520,71,21
+Birbhum,Alluvial & Red/Yellow,200,45,45,6.3,1570,73,22
+Birbhum,Alluvial & Red/Yellow,100,50,50,6.5,1620,75,23
+Birbhum,Alluvial & Red/Yellow,110,55,55,6.7,1670,77,24
+Birbhum,Alluvial & Red/Yellow,120,60,60,6.9,1720,79,25
+Birbhum,Alluvial & Red/Yellow,130,65,65,7.1,1770,81,26
+Birbhum,Alluvial & Red/Yellow,140,70,70,7.3,1820,83,27
+Birbhum,Alluvial & Red/Yellow,150,75,75,7.5,1870,85,28
+Birbhum,Alluvial & Red/Yellow,160,80,80,7.5,1920,87,29
+Birbhum,Alluvial & Red/Yellow,170,40,40,6.2,1540,72,22
+Birbhum,Alluvial & Red/Yellow,180,45,45,6.4,1590,74,23
+Birbhum,Alluvial & Red/Yellow,190,50,50,6.6,1640,76,24
+Birbhum,Alluvial & Red/Yellow,200,55,55,6.8,1690,78,25
+Birbhum,Alluvial & Red/Yellow,100,60,60,7,1740,80,26
+Birbhum,Alluvial & Red/Yellow,110,65,65,7.2,1790,82,27
+Birbhum,Alluvial & Red/Yellow,120,70,70,7.4,1840,84,28
+Birbhum,Alluvial & Red/Yellow,130,75,75,7.5,1890,86,29
+Birbhum,Alluvial & Red/Yellow,140,80,80,7.5,1940,88,30
+Birbhum,Alluvial & Red/Yellow,150,40,40,6.3,1560,73,23
+Birbhum,Alluvial & Red/Yellow,160,45,45,6.5,1610,75,24
+Birbhum,Alluvial & Red/Yellow,170,50,50,6.7,1660,77,25
+Birbhum,Alluvial & Red/Yellow,180,55,55,6.9,1710,79,26
+Birbhum,Alluvial & Red/Yellow,190,60,60,7.1,1760,81,27
+Birbhum,Alluvial & Red/Yellow,200,65,65,7.3,1810,83,28
+Birbhum,Alluvial & Red/Yellow,100,70,70,7.5,1860,85,29
+Birbhum,Alluvial & Red/Yellow,110,75,75,7.5,1910,87,30
+Birbhum,Alluvial & Red/Yellow,120,80,80,7.5,1960,89,20
+Birbhum,Alluvial & Red/Yellow,130,40,40,6.4,1580,74,24
+Birbhum,Alluvial & Red/Yellow,140,45,45,6.6,1630,76,25
+Birbhum,Alluvial & Red/Yellow,150,50,50,6.8,1680,78,26
+Birbhum,Alluvial & Red/Yellow,160,55,55,7,1730,80,27
+Birbhum,Alluvial & Red/Yellow,170,60,60,7.2,1780,82,28
+Birbhum,Alluvial & Red/Yellow,180,65,65,7.4,1830,84,29
+Birbhum,Alluvial & Red/Yellow,190,70,70,7.5,1880,86,30
+Birbhum,Alluvial & Red/Yellow,200,75,75,7.5,1930,88,20
+Birbhum,Alluvial & Red/Yellow,100,80,80,7.5,1980,90,21
+Birbhum,Alluvial & Red/Yellow,110,40,40,6.5,1600,75,25
+Birbhum,Alluvial & Red/Yellow,120,45,45,6.7,1650,77,26
+Birbhum,Alluvial & Red/Yellow,130,50,50,6.9,1700,79,27
+Birbhum,Alluvial & Red/Yellow,140,55,55,7.1,1750,81,28
+Birbhum,Alluvial & Red/Yellow,150,60,60,7.3,1800,83,29
+Birbhum,Alluvial & Red/Yellow,160,65,65,7.5,1850,85,30
+Birbhum,Alluvial & Red/Yellow,170,70,70,7.5,1900,87,20
+Birbhum,Alluvial & Red/Yellow,180,75,75,7.5,1950,89,21
+Birbhum,Alluvial & Red/Yellow,190,80,80,7.5,2000,91,22
+Cooch Behar,Alluvial,100,50,100,5.5,2000,75,20
+Cooch Behar,Alluvial,110,55,110,5.6,2050,77,21
+Cooch Behar,Alluvial,120,60,120,5.7,2100,79,22
+Cooch Behar,Alluvial,130,65,130,5.8,2150,81,23
+Cooch Behar,Alluvial,140,70,140,5.9,2200,83,24
+Cooch Behar,Alluvial,150,75,150,6,2250,85,25
+Cooch Behar,Alluvial,160,80,160,6.1,2300,87,26
+Cooch Behar,Alluvial,170,85,170,6.2,2350,89,27
+Cooch Behar,Alluvial,180,90,180,6.3,2400,91,28
+Cooch Behar,Alluvial,190,95,190,6.4,2450,93,29
+Cooch Behar,Alluvial,200,100,200,6.5,2500,95,30
+Cooch Behar,Alluvial,105,50,105,5.6,2010,76,21
+Cooch Behar,Alluvial,115,55,115,5.7,2060,78,22
+Cooch Behar,Alluvial,125,60,125,5.8,2110,80,23
+Cooch Behar,Alluvial,135,65,135,5.9,2160,82,24
+Cooch Behar,Alluvial,145,70,145,6,2210,84,25
+Cooch Behar,Alluvial,155,75,155,6.1,2260,86,26
+Cooch Behar,Alluvial,165,80,165,6.2,2310,88,27
+Cooch Behar,Alluvial,175,85,175,6.3,2360,90,28
+Cooch Behar,Alluvial,185,90,185,6.4,2410,92,29
+Cooch Behar,Alluvial,195,95,195,6.5,2460,94,30
+Cooch Behar,Alluvial,100,100,200,5.7,2020,77,22
+Cooch Behar,Alluvial,110,105,105,5.8,2070,79,23
+Cooch Behar,Alluvial,120,110,110,5.9,2120,81,24
+Cooch Behar,Alluvial,130,115,115,6,2170,83,25
+Cooch Behar,Alluvial,140,120,120,6.1,2220,85,26
+Cooch Behar,Alluvial,150,125,125,6.2,2270,87,27
+Cooch Behar,Alluvial,160,130,130,6.3,2320,89,28
+Cooch Behar,Alluvial,170,135,135,6.4,2370,91,29
+Cooch Behar,Alluvial,180,140,140,6.5,2420,93,30
+Cooch Behar,Alluvial,190,145,145,6.6,2470,95,20
+Cooch Behar,Alluvial,200,150,150,6.7,2520,75,21
+Cooch Behar,Alluvial,105,155,155,5.8,2030,77,22
+Cooch Behar,Alluvial,115,160,160,5.9,2080,79,23
+Cooch Behar,Alluvial,125,165,165,6,2130,81,24
+Cooch Behar,Alluvial,135,170,170,6.1,2180,83,25
+Cooch Behar,Alluvial,145,175,175,6.2,2230,85,26
+Cooch Behar,Alluvial,155,180,180,6.3,2280,87,27
+Cooch Behar,Alluvial,165,185,185,6.4,2330,89,28
+Cooch Behar,Alluvial,175,190,190,6.5,2380,91,29
+Cooch Behar,Alluvial,185,195,195,6.6,2430,93,30
+Cooch Behar,Alluvial,195,200,200,6.7,2480,95,20
+Cooch Behar,Alluvial,100,50,100,5.6,2040,76,21
+Cooch Behar,Alluvial,110,55,110,5.7,2090,78,22
+Cooch Behar,Alluvial,120,60,120,5.8,2140,80,23
+Cooch Behar,Alluvial,130,65,130,5.9,2190,82,24
+Cooch Behar,Alluvial,140,70,140,6,2240,84,25
+Cooch Behar,Alluvial,150,75,150,6.1,2290,86,26
+Cooch Behar,Alluvial,160,80,160,6.2,2340,88,27
+Cooch Behar,Alluvial,170,85,170,6.3,2390,90,28
+Cooch Behar,Alluvial,180,90,180,6.4,2440,92,29
+Cooch Behar,Alluvial,190,95,190,6.5,2490,94,30
+Cooch Behar,Alluvial,200,100,200,6.6,2540,75,20
+Cooch Behar,Alluvial,105,50,105,5.7,2050,77,21
+Cooch Behar,Alluvial,115,55,115,5.8,2100,79,22
+Cooch Behar,Alluvial,125,60,120,5.9,2150,81,23
+Cooch Behar,Alluvial,135,65,130,6,2200,83,24
+Cooch Behar,Alluvial,145,70,140,6.1,2250,85,25
+Cooch Behar,Alluvial,155,75,150,6.2,2300,87,26
+Cooch Behar,Alluvial,165,80,160,6.3,2350,89,27
+Cooch Behar,Alluvial,175,85,170,6.4,2400,91,28
+Cooch Behar,Alluvial,185,90,180,6.5,2450,93,29
+Cooch Behar,Alluvial,195,95,190,6.6,2500,95,30
+Dakshin Dinajpur,Alluvial,100,50,100,6.5,1500,70,20
+Dakshin Dinajpur,Alluvial,110,55,110,6.6,1550,72,21
+Dakshin Dinajpur,Alluvial,120,60,120,6.7,1600,74,22
+Dakshin Dinajpur,Alluvial,130,65,130,6.8,1650,76,23
+Dakshin Dinajpur,Alluvial,140,70,140,6.9,1700,78,24
+Dakshin Dinajpur,Alluvial,150,75,150,7,1750,80,25
+Dakshin Dinajpur,Alluvial,160,80,160,7.1,1800,82,26
+Dakshin Dinajpur,Alluvial,170,85,170,7.2,1850,84,27
+Dakshin Dinajpur,Alluvial,180,90,180,7.3,1900,86,28
+Dakshin Dinajpur,Alluvial,190,95,190,7.4,1950,88,29
+Dakshin Dinajpur,Alluvial,200,100,200,7.5,2000,90,30
+Dakshin Dinajpur,Alluvial,105,50,105,6.6,1510,71,21
+Dakshin Dinajpur,Alluvial,115,55,115,6.7,1560,73,22
+Dakshin Dinajpur,Alluvial,125,60,125,6.8,1610,75,23
+Dakshin Dinajpur,Alluvial,135,65,135,6.9,1660,77,24
+Dakshin Dinajpur,Alluvial,145,70,145,7,1710,79,25
+Dakshin Dinajpur,Alluvial,155,75,155,7.1,1760,81,26
+Dakshin Dinajpur,Alluvial,165,80,165,7.2,1810,83,27
+Dakshin Dinajpur,Alluvial,175,85,175,7.3,1860,85,28
+Dakshin Dinajpur,Alluvial,185,90,185,7.4,1910,87,29
+Dakshin Dinajpur,Alluvial,195,95,195,7.5,1960,89,30
+Dakshin Dinajpur,Alluvial,100,100,200,6.7,1520,72,22
+Dakshin Dinajpur,Alluvial,110,105,105,6.8,1570,74,23
+Dakshin Dinajpur,Alluvial,120,110,110,6.9,1620,76,24
+Dakshin Dinajpur,Alluvial,130,115,115,7,1670,78,25
+Dakshin Dinajpur,Alluvial,140,120,120,7.1,1720,80,26
+Dakshin Dinajpur,Alluvial,150,125,125,7.2,1770,82,27
+Dakshin Dinajpur,Alluvial,160,130,130,7.3,1820,84,28
+Dakshin Dinajpur,Alluvial,170,135,135,7.4,1870,86,29
+Dakshin Dinajpur,Alluvial,180,140,140,7.5,1920,88,30
+Dakshin Dinajpur,Alluvial,190,145,145,7.5,1970,90,20
+Dakshin Dinajpur,Alluvial,200,150,150,7.5,2020,92,21
+Dakshin Dinajpur,Alluvial,105,50,100,6.8,1530,73,22
+Dakshin Dinajpur,Alluvial,115,55,105,6.9,1580,75,23
+Dakshin Dinajpur,Alluvial,125,60,110,7,1630,77,24
+Dakshin Dinajpur,Alluvial,135,65,115,7.1,1680,79,25
+Dakshin Dinajpur,Alluvial,145,70,120,7.2,1730,81,26
+Dakshin Dinajpur,Alluvial,155,75,125,7.3,1780,83,27
+Dakshin Dinajpur,Alluvial,165,80,130,7.4,1830,85,28
+Dakshin Dinajpur,Alluvial,175,85,135,7.5,1880,87,29
+Dakshin Dinajpur,Alluvial,185,90,140,7.5,1930,89,30
+Dakshin Dinajpur,Alluvial,195,95,145,7.5,1980,91,20
+Dakshin Dinajpur,Alluvial,200,100,150,7.5,2030,93,21
+Darjeeling,Hill & Red/Yellow,50,25,50,4.5,2000,80,10
+Darjeeling,Hill & Red/Yellow,55,28,55,4.6,2050,82,11
+Darjeeling,Hill & Red/Yellow,60,31,60,4.7,2100,84,12
+Darjeeling,Hill & Red/Yellow,65,34,65,4.8,2150,86,13
+Darjeeling,Hill & Red/Yellow,70,37,70,4.9,2200,88,14
+Darjeeling,Hill & Red/Yellow,75,40,75,5,2250,90,15
+Darjeeling,Hill & Red/Yellow,80,43,80,5.1,2300,82,16
+Darjeeling,Hill & Red/Yellow,85,46,85,5.2,2350,84,17
+Darjeeling,Hill & Red/Yellow,90,49,90,5.3,2400,86,18
+Darjeeling,Hill & Red/Yellow,95,52,95,5.4,2450,88,19
+Darjeeling,Hill & Red/Yellow,100,55,100,5.5,2500,90,20
+Darjeeling,Hill & Red/Yellow,55,25,55,4.6,2010,81,11
+Darjeeling,Hill & Red/Yellow,60,28,60,4.7,2060,83,12
+Darjeeling,Hill & Red/Yellow,65,31,65,4.8,2110,85,13
+Darjeeling,Hill & Red/Yellow,70,34,70,4.9,2160,87,14
+Darjeeling,Hill & Red/Yellow,75,37,75,5,2210,89,15
+Darjeeling,Hill & Red/Yellow,80,40,80,5.1,2260,91,16
+Darjeeling,Hill & Red/Yellow,85,43,85,5.2,2310,83,17
+Darjeeling,Hill & Red/Yellow,90,46,90,5.3,2360,85,18
+Darjeeling,Hill & Red/Yellow,95,49,95,5.4,2410,87,19
+Darjeeling,Hill & Red/Yellow,100,52,100,5.5,2460,89,20
+Darjeeling,Hill & Red/Yellow,60,25,60,4.7,2020,82,12
+Darjeeling,Hill & Red/Yellow,65,28,65,4.8,2070,84,13
+Darjeeling,Hill & Red/Yellow,70,31,70,4.9,2120,86,14
+Darjeeling,Hill & Red/Yellow,75,34,75,5,2170,88,15
+Darjeeling,Hill & Red/Yellow,80,37,80,5.1,2220,90,16
+Darjeeling,Hill & Red/Yellow,85,40,85,5.2,2270,92,17
+Darjeeling,Hill & Red/Yellow,90,43,90,5.3,2320,84,18
+Darjeeling,Hill & Red/Yellow,95,46,95,5.4,2370,86,19
+Darjeeling,Hill & Red/Yellow,100,49,100,5.5,2420,88,20
+Darjeeling,Hill & Red/Yellow,65,25,65,4.8,2030,83,13
+Darjeeling,Hill & Red/Yellow,70,28,70,4.9,2080,85,14
+Darjeeling,Hill & Red/Yellow,75,31,75,5,2130,87,15
+Darjeeling,Hill & Red/Yellow,80,34,80,5.1,2180,89,16
+Darjeeling,Hill & Red/Yellow,85,37,85,5.2,2230,91,17
+Darjeeling,Hill & Red/Yellow,90,40,90,5.3,2280,93,18
+Darjeeling,Hill & Red/Yellow,95,43,95,5.4,2330,85,19
+Darjeeling,Hill & Red/Yellow,100,46,100,5.5,2380,87,20
+Darjeeling,Hill & Red/Yellow,70,25,70,4.9,2040,84,14
+Darjeeling,Hill & Red/Yellow,75,28,75,5,2090,86,15
+Darjeeling,Hill & Red/Yellow,80,31,80,5.1,2140,88,16
+Darjeeling,Hill & Red/Yellow,85,34,85,5.2,2190,90,17
+Darjeeling,Hill & Red/Yellow,90,37,90,5.3,2240,92,18
+Darjeeling,Hill & Red/Yellow,95,40,95,5.4,2290,94,19
+Darjeeling,Hill & Red/Yellow,100,43,100,5.5,2340,86,20
+Darjeeling,Hill & Red/Yellow,75,25,75,5,2050,87,15
+Darjeeling,Hill & Red/Yellow,80,28,80,5.1,2100,89,16
+Darjeeling,Hill & Red/Yellow,85,31,85,5.2,2150,91,17
+Darjeeling,Hill & Red/Yellow,90,34,90,5.3,2200,93,18
+Darjeeling,Hill & Red/Yellow,95,37,95,5.4,2250,95,19
+Darjeeling,Hill & Red/Yellow,100,40,100,5.5,2300,87,20
+Darjeeling,Hill & Red/Yellow,80,25,80,5.1,2060,88,16
+Darjeeling,Hill & Red/Yellow,85,28,85,5.2,2110,90,17
+Darjeeling,Hill & Red/Yellow,90,31,90,5.3,2160,92,18
+Darjeeling,Hill & Red/Yellow,95,34,95,5.4,2210,94,19
+Darjeeling,Hill & Red/Yellow,100,37,100,5.5,2260,96,20
