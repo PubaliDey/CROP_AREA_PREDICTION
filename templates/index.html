@@ -1,20 +1,96 @@
-<!-- templates/index.html -->
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>District Prediction</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f8f8f8;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        form {
+            background-color: #ffffff;
+            margin-top: 50px;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            max-width: 400px;
+            width: 100%;
+        }
+
+        h1 {
+            text-align: center;
+            color: #333333;
+            margin-bottom: 20px; /* Added margin to separate heading from form */
+        }
+
+        label {
+            display: block;
+            margin-bottom: 8px;
+            color: #555555;
+        }
+
+        input {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 12px;
+            border: 1px solid #cccccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+
+        button {
+            background-color: #4caf50;
+            color: #ffffff;
+            padding: 12px 20px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+            display: block;
+            width: 100%;
+        }
+
+        button:hover {
+            background-color: #45a049;
+        }
+    </style>
 </head>
 <body>
-    <h1>Enter Details for District Prediction</h1>
     <form action="/" method="post">
-        Soil Type: <input type="text" name="Soil_Type" required><br>
-        N: <input type="number" name="N" step="any" required><br>
-        P: <input type="number" name="P" step="any" required><br>
-        K: <input type="number" name="K" step="any" required><br>
-        pH: <input type="number" name="pH" step="any" required><br>
-        Humidity: <input type="number" name="Humidity" step="any" required><br>
-        Temperature: <input type="number" name="Temperature" step="any" required><br>
-        Rainfall: <input type="number" name="Rainfall" step="any" required><br>
+        <h1>Enter Details for District Prediction</h1>
+        <label for="Soil_Type">Soil Type:</label>
+        <input type="text" name="Soil_Type" required>
+
+        <label for="N">N:</label>
+        <input type="number" name="N" step="any" required>
+
+        <label for="P">P:</label>
+        <input type="number" name="P" step="any" required>
+
+        <label for="K">K:</label>
+        <input type="number" name="K" step="any" required>
+
+        <label for="pH">pH:</label>
+        <input type="number" name="pH" step="any" required>
+
+        <label for="Humidity">Humidity:</label>
+        <input type="number" name="Humidity" step="any" required>
+
+        <label for="Temperature">Temperature:</label>
+        <input type="number" name="Temperature" step="any" required>
+
+        <label for="Rainfall">Rainfall:</label>
+        <input type="number" name="Rainfall" step="any" required>
+
         <button type="submit">Predict</button>
     </form>
 </body>
